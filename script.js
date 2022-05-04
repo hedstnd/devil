@@ -39,6 +39,7 @@ function guessPlay() {
 function incorrect(pG) {
 	toDoc = "<tr>";
 	toDoc+= "<td>" + pG.name + "</td>";
+	emoji+= "⬛";
 	if (pG.pos == player.pos) {
 		toDoc+= "<td class = 'grn'>";
 		emoji+= "🟩";
@@ -139,6 +140,8 @@ function finalRes(gotIt) {
 
 function share() {
 	var txt = "Devil " + dayNum + ": " + numGuess + "/8\n\n" + emoji;
+	// txt.select();
+	// txt.setSelectionRange(0, 99999);
 	navigator.clipboard.writeText(txt);
 }
 
