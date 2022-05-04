@@ -5,6 +5,7 @@ body {
 }
 table {
 	margin: auto;
+	table-layout: fixed;
 }	
 .grn {
 background-color: green !important;
