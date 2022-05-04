@@ -1,0 +1,60 @@
+body {
+	text-align: center;
+	background-color: #012169;
+	color: #fff;
+}
+table {
+	margin: auto;
+}	
+.grn {
+background-color: green !imoprtant;
+}
+.ylw, .ylwUp, .ylwDwn{
+background-color: #aaaa00 !important;
+}
+.ylwUp::after {
+content: "↑";
+}
+.ylwDwn::after {
+content: "↓";
+}
+.dwn::after {
+	content: "↓";
+}
+.up::after {
+content: "↑";
+}
+th, td {
+  padding: 15px;
+}
+td {
+	background-color: rgba(255,255,255,0.3);
+}
+#res {
+	background-color: #000;
+	/*margin: 15% auto;*/
+	margin: 12.5% auto;
+	color: #fff;
+	width: 80%;
+	height: 50%;
+	padding: 20px;
+	text-align: center;
+}
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
