@@ -128,7 +128,6 @@ function correct() {
 
 function finalRes(gotIt) {
 	document.getElementById("guess").setAttribute("disabled",true);
-	document.getElementById("sub").setAttribute("disabled",true);
 	document.getElementById("res").removeAttribute("hidden");
 	document.getElementById("pop").style.display = "block";
 	if (gotIt) {
@@ -222,6 +221,7 @@ function autocomplete(inp, arr) {
               b.addEventListener("click", function(e) {
               /*insert the value for the autocomplete text field:*/
               inp.value = this.getElementsByTagName("input")[0].value;
+			  guessPlay();
               /*close the list of autocompleted values,
               (or any other open lists of autocompleted values:*/
               closeAllLists();
