@@ -139,9 +139,7 @@ function finalRes(gotIt) {
 
 function share() {
 	var txt = "Devil " + dayNum + ": " + numGuess + "/8\n\n" + emoji;
-	txt.select();
-	txt.setSelectionRange(0, 99999);
-	navigator.clipboard.writeText(txt.value);
+	navigator.clipboard.writeText(txt);
 }
 
 function yellowClass(cl) {
