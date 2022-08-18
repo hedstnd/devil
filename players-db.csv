@@ -1,0 +1,611 @@
+﻿num,playerid,name,pos,ht,wt,from,Seasons,class,season4,htft,htin
+0,506,T.M. Grant ,G ,0-0 ,0 ,,1906 ,,1906 ,0,0 
+0,507,T.A. Holton ,,0-0 ,0 ,,1906 ,,1906 ,0,0 
+0,505,C.R. Pugh ,G ,0-0 ,0 ,,1906 ,,1906 ,0,0 
+0,501,B.S. Womble ,,0-0 ,0 ,,1906 ,,1906 ,0,0 
+0,502,C.R. Claywell ,F ,0-0 ,0 ,,1906-07 ,,1907 ,0,0 
+0,503,Garland Greever ,F ,0-0 ,0 ,,1906-07 ,,1907 ,0,0 
+0,522,Spence ,G ,0-0 ,0 ,,1907 ,,1907 ,0,0 
+0,500,T.G. Stem ,C ,0-0 ,0 ,,1906-07 ,,1907 ,0,0 
+0,530,D.S. Elias ,,0-0 ,0 ,,1908 ,,1908 ,0,0 
+0,528,Gantt ,,0-0 ,0 ,,1908 ,,1908 ,0,0 
+0,525,W.B. Kiker ,,0-0 ,0 ,,1908 ,,1908 ,0,0 
+0,508,Bill Lilly ,,0-0 ,0 ,,1907-08 ,,1908 ,0,0 
+0,529,Armfield ,,0-0 ,0 ,,1908-09 ,,1909 ,0,0 
+0,524,O.B. Baxter ,F ,0-0 ,0 ,,1907-09 ,,1909 ,0,0 
+0,532,C. Flowers ,,0-0 ,0 ,,1908-09 ,,1909 ,0,0 
+0,535,Suiter ,,0-0 ,0 ,,1909 ,,1909 ,0,0 
+0,526,Tuttle ,,0-0 ,0 ,,1908-09 ,,1909 ,0,0 
+0,533,W. West ,,0-0 ,0 ,,1909 ,,1909 ,0,0 
+0,527,Scott ,,0-0 ,0 ,,1908-10 ,,1910 ,0,0 
+0,531,Smith ,,0-0 ,0 ,,1908-10 ,,1910 ,0,0 
+0,536,Stewart ,,0-0 ,0 ,,1909-10 ,,1910 ,0,0 
+0,537,J.E. Brinn ,,0-0 ,0 ,,1910-11 ,,1911 ,0,0 
+0,510,H.G. Hendrick ,,0-0 ,0 ,,1909-11 ,,1911 ,0,0 
+0,509,P.J. Kirker ,,0-0 ,0 ,,1907-11 ,,1911 ,0,0 
+0,523,Puryear ,G ,0-0 ,0 ,,1907-11 ,,1911 ,0,0 
+0,511,C.B. Brinn ,,0-0 ,0 ,,1911-12 ,,1912 ,0,0 
+0,541,Cherry ,,0-0 ,0 ,,1912 ,,1912 ,0,0 
+0,540,Crowell ,,0-0 ,0 ,,1912 ,,1912 ,0,0 
+0,539,Houston ,,0-0 ,0 ,,1911-12 ,,1912 ,0,0 
+0,534,E.L. Jones ,,0-0 ,0 ,,1909-12 ,,1912 ,0,0 
+0,538,Moore ,,0-0 ,0 ,,1911-12 ,,1912 ,0,0 
+0,504,L.G. White ,G ,0-0 ,0 ,,1906-12 ,,1912 ,0,0 
+0,512,Hip Martin ,,0-0 ,0 ,,1917 ,,1917 ,0,0 
+0,544,F.C. Aldridge ,G ,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,545,J.M. Barrett ,,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,546,W.S. Carver ,,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,542,H.P. Cole ,F ,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,547,M.H. Jeffries ,,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,543,F.M. Page ,C ,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,549,G.B. Starling ,F ,0-0 ,0 ,,1919 ,,1919 ,0,0 
+0,513,L.B. Hathaway ,,0-0 ,0 ,,1919-21 ,,1921 ,0,0 
+0,514,O.L. Richardson ,,0-0 ,0 ,,1922 ,,1922 ,0,0 
+0,515,James Simpson ,,0-0 ,0 ,,1923 ,,1923 ,0,0 
+0,516,L.E. Spikes ,,0-0 ,0 ,,1924 ,,1924 ,0,0 
+0,57,E.J. Bullock ,,0-0 ,0 ,,1923-26 ,,1926 ,0,0 
+0,170,W.R. Hartness ,,0-0 ,0 ,,1926 ,,1926 ,0,0 
+0,271,P.E. Moss ,,0-0 ,0 ,,1925-26 ,,1926 ,0,0 
+0,63,M.W. Butler ,,0-0 ,0 ,,1926-27 ,,1927 ,0,0 
+0,313,Sam Rowe ,,0-0 ,0 ,,1927 ,,1927 ,0,0 
+0,29,C.G. Bennett ,,0-0 ,0 ,,1926-28 ,,1928 ,0,0 
+0,209,D.L. Kelley ,,0-0 ,0 ,,1926-28 ,,1928 ,0,0 
+0,296,W.S. Ragens ,,0-0 ,0 ,,1928 ,,1928 ,0,0 
+0,364,C.C. Weaver ,,0-0 ,0 ,,1926-28 ,,1928 ,0,0 
+0,66,Coke Candler ,,0-0 ,0 ,,1927-29 ,,1929 ,0,0 
+0,201,John Jankoski ,,0-0 ,0 ,,1928-29 ,,1929 ,0,0 
+0,97,Harry Councilor ,,0-0 ,0 ,,1928-30 ,,1930 ,0,0 
+0,132,Roland Farley ,,0-0 ,0 ,,1928-30 ,,1930 ,0,0 
+0,347,Robert Thorne ,,0-0 ,0 ,,1929-30 ,,1930 ,0,0 
+0,370,Bill Werber ,,0-0 ,0 ,,1928-30 ,,1930 ,0,0 
+0,69,Theodore Capelli ,,0-0 ,0 ,,1931 ,,1931 ,0,0 
+0,100,Joe Croson ,,0-0 ,0 ,,1929-31 ,,1931 ,0,0 
+0,306,Shaw Robert ,,0-0 ,0 ,,1931 ,,1931 ,0,0 
+0,310,George Rogers ,,0-0 ,0 ,,1927-31 ,,1931 ,0,0 
+32,2,Roy Alpert ,,0-0 ,0 ,,1932 ,,1932 ,0,0 
+0,71,Pete Carter ,,0-0 ,0 ,,1930-32 ,,1932 ,0,0 
+0,88,Nelson Colley ,,0-0 ,0 ,,1931-32 ,,1932 ,0,0 
+0,145,Garber ,,0-0 ,0 ,,1930-32 ,,1932 ,0,0 
+0,325,John Shaw ,,0-0 ,0 ,,1930-32 ,,1932 ,0,0 
+0,83,D. Clark ,,0-0 ,0 ,,1933 ,,1933 ,0,0 
+0,171,R.C. Hayes ,,0-0 ,0 ,,1932-33 ,,1933 ,0,0 
+0,188,O.W. Horne ,,0-0 ,0 ,,1931-33 ,,1933 ,0,0 
+0,229,Henry Lewis ,,0-0 ,0 ,,1932-33 ,,1933 ,0,0 
+0,134,James Ferguson ,,0-0 ,0 ,,1934 ,,1934 ,0,0 
+0,176,Horace Hendrickson ,,0-0 ,0 ,,1934 ,,1934 ,0,0 
+0,249,Cornelius McGillicuddy ,,0-0 ,0 ,,1934 ,,1934 ,0,0 
+0,344,Herb Thompson ,,0-0 ,0 ,,1932-34 ,,1934 ,0,0 
+40,345,James Thompson ,C ,0-0 ,0 ,,1932-34 ,,1934 ,0,0 
+0,365,Phil Weaver ,,0-0 ,0 ,,1932-34 ,,1934 ,0,0 
+0,26,Sam Bell ,,0-0 ,0 ,,1933-35 ,,1935 ,0,0 
+0,107,William Davis ,,0-0 ,0 ,,1935 ,,1935 ,0,0 
+0,244,Reynolds May ,,0-0 ,0 ,,1933-35 ,,1935 ,0,0 
+0,275,Peter Naktenis ,,0-0 ,0 ,,1935 ,,1935 ,0,0 
+0,369,William Wentz ,,0-0 ,0 ,,1935 ,,1935 ,0,0 
+42,192,Billy Huiskamp ,F ,5-6 ,0 ,"Keokuk, Iowa ",1934-36 ,,1936 ,5,6 
+45,220,Charles Kunkle ,F ,6-2 ,0 ,"Johnstown, Pa. ",1934-36 ,,1936 ,6,2 
+0,291,Ernest Polack ,,0-0 ,0 ,,1934-36 ,,1936 ,0,0 
+0,421,Ashby ,,0-0 ,0 ,,1937 ,,1937 ,0,0 
+47,77,Herbert Cheek ,G ,6-0 ,0 ,"Durham, N.C. ",1935-37 ,Sr.,1937 ,6,0 
+50,178,Albert Herrick ,C ,6-3 ,0 ,"Lebanon, Ohio ",1935-37 ,Sr.,1937 ,6,3 
+53,285,Ace Parker ,G ,5-11 ,0 ,"Portsmouth, Va. ",1936-37 ,Jr.,1937 ,5,11 
+51,290,Ken Podger ,G ,5-9 ,0 ,"Kenmore, N.Y. ",1935-37 ,Sr.,1937 ,5,9 
+48,304,Joe Riley ,F ,6-2 ,0 ,"Collingsdale, Pa. ",1935-37 ,Sr.,1937 ,6,2 
+54,125,Mouse Edwards ,F/C ,6-2 ,0 ,"Bloomsburg, Pa. ",1936-38 ,Sr.,1938 ,6,2 
+48,175,Abe Hendrickson ,G ,5-10 ,0 ,"Beaver Falls, Pa. ",1938 ,,1938 ,5,10 
+49,185,John Hoffman ,G ,6-1 ,0 ,"Fort Wayne, Ind. ",1935-38 ,,1938 ,6,1 
+55,305,Spencer Robb ,G ,6-2 ,0 ,"Athens, Tenn. ",1938 ,,1938 ,6,2 
+52,381,Bob Wood ,F ,5-11 ,0 ,"Harrisburg, Pa. ",1936-38 ,,1938 ,5,11 
+0,422,Zavlaris ,,0-0 ,0 ,,1938 ,,1938 ,0,0 
+44,30,Sparky Bergman ,F ,5-8 ,0 ,"Madison, N.J. ",1937-39 ,,1939 ,5,8 
+0,423,Lauteres ,,0-0 ,0 ,,1939 ,,1939 ,0,0 
+52,283,Bob O'Mara ,C ,6-2 ,0 ,"Ashland, Ky. ",1937-39 ,,1939 ,6,2 
+40,340,Ed Swindell ,F ,5-11 ,0 ,"Durham, N.C. ",1937-39 ,,1939 ,5,11 
+50,40,Jim Bowman ,C ,6-2 ,185 ,"Harrisburg, Pa. ",1938-40 ,Sr.,1940 ,6,2 
+49,425,Lou Dubois ,F ,6-2 ,185 ,"Duquesne, Pa. ",1940 ,Jr.,1940 ,6,2 
+42,139,Bill Flentye ,F ,6-2 ,180 ,"Aurora, Ill. ",1938-40 ,Sr.,1940 ,6,2 
+40,424,John Heath ,F ,5-10 ,175 ,"Albany, N.Y. ",1940 ,Jr.,1940 ,5,10 
+47,183,Lang Hobgood ,C ,6-6 ,175 ,"Durham, N.C. ",1938-40 ,Sr.,1940 ,6,6 
+46,263,Stoop Minor ,C ,6-3 ,0 ,"Batavia, N.Y. ",1937-40 ,,1940 ,6,3 
+41,287,Bill Parsons ,F ,5-10 ,160 ,"Altoona, Pa. ",1938-40 ,Sr.,1940 ,5,10 
+43,343,Jim Thomas ,G ,6-0 ,0 ,"Durham, N.C. ",1937-40 ,,1940 ,6,0 
+60,46,Ray Brown ,F ,6-3 ,170 ,"Baltimore, Md. ",1940-41 ,Jr.,1941 ,6,3 
+49,92,Tom Connelly ,G ,5-9 ,155 ,"Altoona, Pa. ",1939-41 ,Sr.,1941 ,5,9 
+61,98,Tom Cowdrick ,G ,5-8 ,165 ,"Philadelphia, Pa. ",1939-41 ,Sr.,1941 ,5,8 
+55,186,Chuck Holley ,C ,6-3 ,180 ,"Ford City, Pa. ",1939-41 ,Sr.,1941 ,6,3 
+43,264,Bill Mock ,F ,6-2 ,190 ,"Altoona, Pa. ",1940-41 ,Jr.,1941 ,6,2 
+52,272,Bob Moyer ,G ,6-0 ,150 ,"Harrisburg, Pa. ",1939-41 ,Sr.,1941 ,6,0 
+53,294,Glenn Price ,F ,5-10 ,175 ,"Beaver Falls, Pa. ",1939-41 ,Sr.,1941 ,5,10 
+45,326,Eddie Shokes ,,6-0 ,165 ,"Charleston, S.C. ",1939-41 ,Sr.,1941 ,6,0 
+51,356,Cy Valasek ,G ,5-10 ,180 ,"Ford City, Pa. ",1939-41 ,Sr.,1941 ,5,10 
+0,427,Wetmore ,,0-0 ,0 ,,1941 ,,1941 ,0,0 
+0,379,John Winkin ,,0-0 ,0 ,,1940-41 ,,1941 ,0,0 
+54,6,J. Clyde Allen ,C ,6-1 ,190 ,"Tarentum, Pa. ",1940-42 ,Sr.,1942 ,6,1 
+0,85,Robert Clark ,,0-0 ,0 ,,1941-42 ,,1942 ,0,0 
+0,441,Gotye ,,0-0 ,0 ,,1942 ,,1942 ,0,0 
+0,439,Gross ,,0-0 ,0 ,,1942 ,,1942 ,0,0 
+48,248,Bill McCahan ,G ,5-9 ,180 ,"Langhorne, Pa. ",1940-42 ,Sr.,1942 ,5,9 
+0,442,Nauman ,,0-0 ,0 ,,1942 ,,1942 ,0,0 
+0,443,Rauch ,,0-0 ,0 ,,1942 ,,1942 ,0,0 
+44,333,Raymond Spuhler ,G ,5-11 ,165 ,"Johnstown, Pa. ",1940-42 ,Sr.,1942 ,5,11 
+59,87,Jack Coleman ,C ,6-5 ,0 ,"Burgin, Ky. ",1943 ,,1943 ,6,5 
+0,190,David Hubbell ,,0-0 ,0 ,,1941-43 ,,1943 ,0,0 
+0,435,Jarvis ,,0-0 ,0 ,,1942-43 ,,1943 ,0,0 
+0,430,Landesberg ,,0-0 ,0 ,,1943 ,,1943 ,0,0 
+40,235,Cedric Loftis ,G ,6-0 ,0 ,"Durham, N.C. ",1942-43 ,,1943 ,6,0 
+0,250,Arthur McGrane ,,0-0 ,0 ,,1942-43 ,,1943 ,0,0 
+63,261,Alex Miller ,F ,6-1 ,0 ,"Millersburg, Ky. ",1942-43 ,,1943 ,6,1 
+0,437,Osborn ,,0-0 ,0 ,,1943 ,,1943 ,0,0 
+0,434,Stough ,,0-0 ,0 ,,1943 ,,1943 ,0,0 
+49,15,Bill Bailey ,G ,5-11 ,150 ,"Knoxville, Tenn. ",1940-44 ,Sr.,1944 ,5,11 
+67,16,George Balitsaris ,F ,6-0 ,190 ,"Pittsburgh, Pa. ",1944 ,Jr.,1944 ,6,0 
+0,23,Curtis Beall ,G ,6-0 ,180 ,"Brewton, Ga. ",1944 ,Jr.,1944 ,6,0 
+52,37,Gene Bledsoe ,G ,5-11 ,145 ,"Memphis, Tenn. ",1944 ,Jr.,1944 ,5,11 
+0,453,Bruce ,,0-0 ,0 ,,1944 ,,1944 ,0,0 
+63,454,Pat Curry ,F/G ,6-0 ,175 ,"St. Joseph, Mo. ",1944 ,Jr.,1944 ,6,0 
+50,144,Bob Gantt ,C ,6-3 ,205 ,"Durham, N.C. (Durham) ",1942-44 ,Sr.,1944 ,6,3 
+61,438,Samuel Gantt ,F/C ,6-4 ,0 ,"Durham, N.C. ",1943-44 ,,1944 ,6,4 
+44,147,Richard Gilbert ,G/F ,6-2 ,165 ,"White Plains, N.Y. ",1943-44 ,Jr.,1944 ,6,2 
+43,164,Harry Harner ,G ,6-0 ,175 ,"Staunton, Va. ",1944 ,Jr.,1944 ,6,0 
+62,169,Howard Hartley ,F ,5-11 ,185 ,"Ravenswood, W.Va. ",1944 ,Jr.,1944 ,5,11 
+40,187,Wright Hollingsworth ,F ,6-2 ,165 ,"Rome, Ga. ",1944 ,Jr.,1944 ,6,2 
+59,195,Henry Hyde ,F/C ,6-3 ,185 ,"Chicago, Ill. ",1944 ,Jr.,1944 ,6,3 
+48,432,Sidney Larkin ,F ,6-2 ,190 ,"New York, N.Y. ",1943-44 ,Jr.,1944 ,6,2 
+56,259,Robert Metzler ,F/G ,5-11 ,185 ,"Lincoln Park, Pa. ",1943-44 ,Jr.,1944 ,5,11 
+64,458,Kelly Mote ,G ,5-11 ,150 ,"Atlanta, Ga. ",1944 ,So.,1944 ,5,11 
+0,452,Mott ,,0-0 ,0 ,,1944 ,,1944 ,0,0 
+0,457,Shy ,,0-0 ,0 ,,1944 ,,1944 ,0,0 
+41,353,Kenny Turner ,F ,6-3 ,170 ,"Durham, N.C. ",1943-44 ,Jr.,1944 ,6,3 
+58,382,Bill Wright ,F/G ,6-2 ,185 ,"Knoxville, Tenn. ",1944 ,Jr.,1944 ,6,2 
+58,466,Harry Bell ,F/G ,6-1 ,0 ,"Haverford, Pa. ",1945 ,,1945 ,6,1 
+40,53,Dan Buckley ,G ,5-8 ,0 ,"New York City, N.Y. ",1945 ,,1945 ,5,8 
+0,468,Carter ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+65,72,Gordon Carver ,F ,6-1 ,185 ,"Durham, N.C. ",1943-45 ,Sr.,1945 ,6,1 
+0,465,Condon ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+53,103,John Crowder ,G ,6-2 ,0 ,"High Point, N.C. ",1945 ,,1945 ,6,2 
+43,158,Ted Green ,C/F ,6-3 ,0 ,"Harrisburg, Pa. ",1945 ,,1945 ,6,3 
+0,467,Hofmeister ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+0,469,Bob Lapp ,F ,6-2 ,190 ,"Irvington, N.J. (Irvington) ",1945 ,So.,1945 ,6,2 
+49,462,John Lentz ,G ,6-2 ,0 ,"Ellerbe, N.C. ",1945 ,,1945 ,6,2 
+56,228,Cliff Lewis ,G ,5-10 ,0 ,"Cleveland, Ohio ",1945 ,,1945 ,5,10 
+0,485,Megroz ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+0,460,Negroz ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+61,459,Warren Nordin ,F/C ,6-1 ,0 ,"La Grange, Ill. ",1945 ,,1945 ,6,1 
+0,461,Pruitt ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+51,316,Bill Sapp ,F ,6-1 ,0 ,"Augusta, Kan. ",1945 ,,1945 ,6,1 
+0,463,Scott ,,0-0 ,0 ,,1945 ,,1945 ,0,0 
+59,335,John Steele ,G ,6-0 ,0 ,"Broadway, Ohio ",1945 ,,1945 ,6,0 
+48,358,Dick Van Schoik ,G ,6-0 ,0 ,"Colombus, Ohio ",1945 ,,1945 ,6,0 
+60,464,Ted Villanueva ,F ,6-2 ,0 ,"Orange, N.J. ",1945 ,,1945 ,6,2 
+44,13,Doug Ausbon ,F/G ,6-1 ,170 ,"Durham, N.C. ",1943-46 ,Sr.,1946 ,6,1 
+64,43,Joe Brand ,F ,6-1 ,0 ,"Louisville, Ky. ",1945-46 ,,1946 ,6,1 
+50,47,George Brunner ,C/F ,6-2 ,0 ,"West New York, N.J. ",1945-46 ,,1946 ,6,2 
+0,95,Tom Cordell ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,449,Jim Corrington ,C ,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,447,Hackett ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,446,Kaufman ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,444,Major ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,473,Neighborgall ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,292,Warren Pope ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,308,Jack Robinson ,G ,0-0 ,0 ,,1946 ,,1946 ,0,0 
+66,309,Bob Roellke ,G ,6-1 ,0 ,"Maplewood, N.J. ",1945-46 ,,1946 ,6,1 
+0,372,Dick Whiting ,G ,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,445,Whitten ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,448,Williams ,,0-0 ,0 ,,1946 ,,1946 ,0,0 
+0,474,Gibson ,,0-0 ,0 ,,1947 ,,1947 ,0,0 
+41,156,Irving Gray ,G/F ,5-11 ,140 ,"Freeport, N.Y. ",1946-47 ,Jr.,1947 ,5,11 
+55,214,Ed Koffenberger ,C ,6-2 ,0 ,"Wilmington, Del. ",1945-47 ,,1947 ,6,2 
+49,236,Garland Loftis ,G ,5-11 ,165 ,"Durham, N.C. ",1942-47 ,Sr.,1947 ,5,11 
+40,312,Sammy Rothbaum ,G ,5-11 ,170 ,"Palmyra, N.Y. ",1941-47 ,Sr.,1947 ,5,11 
+62,322,John Seward ,F ,6-1 ,185 ,"Newport News, Va. ",1942-47 ,Sr.,1947 ,6,1 
+0,238,Pat Lyons ,,0-0 ,0 ,,1948 ,,1948 ,0,0 
+0,479,Walt Poplin ,F ,6-2 ,180 ,"Albemarle, N.C. ",1948 ,So.,1948 ,6,2 
+0,334,Bill Stark ,,0-0 ,0 ,,1942-48 ,,1948 ,0,0 
+15,481,Bill Armour ,F ,6-3 ,190 ,"Miami, Fla. ",1948-49 ,Jr.,1949 ,6,3 
+26,490,Ray Campbell ,G ,6-2 ,185 ,"Malverne, N.Y. ",1949 ,So.,1949 ,6,2 
+59,89,Ben Collins ,C ,6-6 ,190 ,"Hazard, Ky. ",1947-49 ,Sr.,1949 ,6,6 
+25,489,Benner Crigler ,G ,6-2 ,180 ,"Charlotte, N.C. ",1949 ,So.,1949 ,6,2 
+5,122,Bob Duff ,F ,5-11 ,165 ,"Englewood, N.J. ",1948-49 ,Jr.,1949 ,5,11 
+6,451,Don Farinella ,G ,6-0 ,165 ,"Passaic, N.J. ",1949 ,So.,1949 ,6,0 
+8,150,George Godfrey ,G ,6-0 ,160 ,"Jacksonville, Fla. ",1948-49 ,Jr.,1949 ,6,0 
+16,155,Dick Gordon ,G ,6-0 ,180 ,"Jacksonville, Fla. ",1946-49 ,Sr.,1949 ,6,0 
+21,180,Harold Hibbitts ,C ,6-2 ,190 ,"Pikeville, Ky. ",1949 ,So.,1949 ,6,2 
+24,488,Hal Lynch ,C ,6-3 ,175 ,"Jacksonville, Fla. ",1949 ,So.,1949 ,6,3 
+0,288,Ernest Pergerm ,,0-0 ,0 ,,1949 ,,1949 ,0,0 
+18,317,Carl Sapp ,G/F ,6-4 ,180 ,"Raleigh, N.C. ",1947-49 ,Sr.,1949 ,6,4 
+0,487,Buck Simmons ,,6-2 ,200 ,"Pilot Mountain, N.C. ",1949 ,So.,1949 ,6,2 
+0,450,Tom Wallingford ,C ,6-4 ,185 ,"Maysville, Ky. ",1947-49 ,Sr.,1949 ,6,4 
+5,11,Larry Ashley ,,5-9 ,150 ,"Greenville, S.C. ",1950 ,So.,1950 ,5,9 
+20,78,Buck Cheek ,F ,6-0 ,170 ,"Durham, N.C. ",1946-50 ,Sr.,1950 ,6,0 
+9,191,Tommy Hughes ,G ,6-0 ,180 ,"Sumter, S.C. ",1948-50 ,Sr.,1950 ,6,0 
+12,243,Bill Martin ,G ,6-1 ,175 ,"Portsmouth, Va. ",1947-50 ,Sr.,1950 ,6,1 
+11,319,Dave Scarborough ,F ,6-3 ,165 ,"Philadelphia, Pa. ",1947-50 ,Sr.,1950 ,6,3 
+50,410,Wes Skibstead ,C ,6-2 ,180 ,"Miami, Fla. ",1947-50 ,Sr.,1950 ,6,2 
+14,385,Corren Youmans ,F ,6-1 ,175 ,"Miami, Fla. ",1947-50 ,Sr.,1950 ,6,1 
+27,5,Dayton Allen ,,6-7 ,208 ,"McKeesport, Pa. ",1950-51 ,Sr.,1951 ,6,7 
+34,413,Rod Boyce ,F ,6-4 ,190 ,"Greenwich, Conn. ",1951 ,Sr.,1951 ,6,4 
+0,477,Lloyd Caudle ,,0-0 ,0 ,,1951 ,,1951 ,0,0 
+11,412,Bill Downing ,F ,6-2 ,165 ,"Decatur, Ill. ",1951 ,Sr.,1951 ,6,2 
+21,409,John Engberg ,F ,6-2 ,185 ,"Bradentown, Fla. ",1950-51 ,Sr.,1951 ,6,2 
+17,219,Red Kulpan ,C ,6-6 ,175 ,"Norfolk, Va. ",1950-51 ,Sr.,1951 ,6,6 
+0,499,Jack Lasseter ,,0-0 ,0 ,,1951 ,,1951 ,0,0 
+0,414,Bob Strauss ,,0-0 ,0 ,,1951 ,,1951 ,0,0 
+12,384,Scotty York ,F/G ,6-0 ,175 ,"Cleveland Heights, Ohio ",1948-51 ,Sr.,1951 ,6,0 
+33,102,Dick Crowder ,C ,6-5 ,195 ,"High Point, N.C. ",1950-52 ,Sr.,1952 ,6,5 
+14,112,Kes Deimling ,C/F ,6-4 ,195 ,"Chicago, Ill. ",1951-52 ,Jr.,1952 ,6,4 
+31,138,Bill Fleming ,F ,6-3 ,195 ,"Philadelphia, Pa. ",1950-52 ,Sr.,1952 ,6,3 
+32,148,Carl Glasow ,C ,6-4 ,190 ,"Rochester, N.Y. ",1952 ,Sr.,1952 ,6,4 
+10,159,Dick Groat ,G ,6-0 ,180 ,"Swissvale, Pa. (Swissvale) ",1950-52 ,Sr.,1952 ,6,0 
+24,202,Dick Johnson ,G ,6-0 ,170 ,"Dayton, Ohio ",1951-52 ,Sr.,1952 ,6,0 
+23,227,Dick Latimer ,G/F ,6-2 ,165 ,"Bethesda, Md. ",1950-52 ,Sr.,1952 ,6,2 
+41,416,Tommy Peters ,G ,5-9 ,155 ,"McKeesport, Pa. ",1953 ,So.,1953 ,5,9 
+23,301,Bill Riegel ,G ,6-4 ,180 ,"Monaca, Pa. ",1953 ,So.,1953 ,6,4 
+15,113,Rudy D'Emilio ,G ,5-11 ,175 ,"Philadelphia, Pa. ",1952-54 ,Sr.,1954 ,5,11 
+22,110,Marv Decker ,F ,6-5 ,190 ,"Bloomfield, N.J. ",1952-54 ,Sr.,1954 ,6,5 
+32,121,Charles Driesell ,F/C ,6-4 ,195 ,"Norfolk, Va. ",1952-54 ,Sr.,1954 ,6,4 
+20,200,Bernie Janicki ,F ,6-4 ,180 ,"Ambridge, Pa. ",1952-54 ,Sr.,1954 ,6,4 
+21,221,Rudy Lacy ,C/F ,6-4 ,185 ,"Roanoke, Va. ",1952-54 ,Sr.,1954 ,6,4 
+34,323,Fred Shabel ,G ,6-0 ,190 ,"Union City, N.J. ",1952-54 ,Sr.,1954 ,6,0 
+22,34,Tom Blackburn ,G,6-0 ,165 ,"W. Upton, Mass. ",1955 ,So.,1955 ,6,0 
+23,118,Marty Doherty ,C ,6-9 ,200 ,"Pelham, N.Y. ",1954-55 ,So.,1955 ,6,9 
+13,224,Herky Lamley ,C ,6-4 ,195 ,"Havertown, Pa. ",1953-55 ,Sr.,1955 ,6,4 
+15,408,Jim Rogers ,G,6-0 ,160 ,"Athens, W. Va. ",1955 ,So.,1955 ,6,0 
+12,348,Bob Thuemmel ,G,6-0 ,175 ,"Englewood, N.J. ",1955 ,So.,1955 ,6,0 
+14,351,Don Tobin ,F ,6-5 ,185 ,"Avalon, Pa. ",1954-55 ,Jr.,1955 ,6,5 
+42,352,Hal Turner ,G ,5-10 ,170 ,"Englewood, N.J. ",1953-55 ,Sr.,1955 ,5,10 
+30,27,Joe Belmont ,G ,5-11 ,165 ,"Philadelphia, Pa. ",1953-56 ,Sr.,1956 ,5,11 
+13,56,Tony Buhowsky ,C ,6-9 ,245 ,"Rossello Park, N.J. ",1956 ,So.,1956 ,6,9 
+24,73,Don Cashman ,F ,6-4 ,170 ,"New York City, N.Y. ",1953-56 ,Sr.,1956 ,6,4 
+34,206,Jack Kalbfus ,G ,6-3 ,175 ,"Greensburg, Pa. ",1955-56 ,Sr.,1956 ,6,3 
+35,245,Ronnie Mayer ,F ,6-4 ,185 ,"Avalon, Pa. ",1953-56 ,Sr.,1956 ,6,4 
+33,266,Junior Morgan ,C ,6-7 ,195 ,"Asheboro, N.C. ",1954-56 ,Sr.,1956 ,6,7 
+21,51,Ed Bryson ,F ,6-4 ,185 ,"Durham, N.C. ",1956-57 ,Sr.,1957 ,6,4 
+25,400,Joe Marcovecchio ,G,6-2 ,180 ,"Atlanta, Ga. ",1957 ,So.,1957 ,6,2 
+20,311,Dick Rosenthal ,F ,6-5 ,185 ,"Durham, N.C. ",1955-57 ,Jr.,1957 ,6,5 
+40,4,Bucky Allen ,G ,6-2 ,175 ,"Durham, N.C. ",1956-58 ,Sr.,1958 ,6,2 
+31,86,Hayes Clement ,C ,6-7 ,225 ,"New Bern, N.C. ",1956-58 ,Sr.,1958 ,6,7 
+30,166,Bobby Joe Harris ,G ,5-11 ,180 ,"King, N.C. ",1956-58 ,Sr.,1958 ,5,11 
+32,223,Bob Lakata ,F/C ,6-7 ,220 ,"Johnson City, N.Y. ",1955-58 ,Sr.,1958 ,6,7 
+23,262,Don Miller ,F ,6-4 ,0 ,"Miami Beach, Fla. ",1957-58 ,,1958 ,6,4 
+33,277,Jim Newcome ,F ,6-5 ,210 ,"Gary, Ind. ",1956-58 ,Sr.,1958 ,6,5 
+15,321,Paul Schmidt ,F ,6-5 ,195 ,"Johnstown, Pa. ",1956-58 ,Sr.,1958 ,6,5 
+11,360,Bob Vernon ,G ,6-0 ,170 ,"Riverside, N.J. ",1957-58 ,Sr.,1958 ,6,0 
+35,19,George Barrett ,,6-4 ,200 ,"Wabash, Ind. ",1957-59 ,Sr.,1959 ,6,4 
+12,41,Jack Boyd ,G ,5-11 ,175 ,"Yeadon, Pa. ",1958-59 ,Jr.,1959 ,5,11 
+24,205,Marty Joyce ,G ,5-11 ,165 ,"Philadelphia, Pa. ",1958-59 ,Sr.,1959 ,5,11 
+11,268,Johnny Morris ,G ,6-2 ,170 ,"Roxboro, N.C. ",1959 ,Jr.,1959 ,6,2 
+14,307,Jerry Robertson ,C ,6-6 ,195 ,"Burlington, N.C. ",1957-59 ,Sr.,1959 ,6,6 
+22,362,Bill Watson ,G ,6-2 ,175 ,"Huntington, W.Va. ",1957-59 ,Sr.,1959 ,6,2 
+25,363,Bob Wayand ,F ,6-6 ,210 ,"Scotia, N.Y. ",1958-59 ,So.,1959 ,6,6 
+20,20,Larry Bateman ,C ,6-6 ,215 ,"Greensboro, N.C. ",1958-60 ,Sr.,1960 ,6,6 
+25,491,C.B. Johnson ,F ,6-3 ,185 ,"New Orleans, La. ",1960 ,So.,1960 ,6,3 
+31,3,Doug Albright ,F ,6-5 ,200 ,"Greensboro, N.C. ",1959-61 ,Sr.,1961 ,6,5 
+40,22,Jay Beal ,G ,5-11 ,160 ,"Wethersfield, Conn. ",1959-61 ,Sr.,1961 ,5,11 
+24,67,John Cantwell ,G,5-9 ,180 ,"Shawano, Wis. ",1960-61 ,Jr.,1961 ,5,9 
+30,143,John Frye ,G ,6-0 ,175 ,"Huntington, W.Va. ",1959-61 ,Sr.,1961 ,6,0 
+21,194,Howard Hurt ,F/G ,6-3 ,195 ,"Beckley, W.Va. ",1959-61 ,Sr.,1961 ,6,3 
+34,212,Doug Kistler ,F ,6-9 ,215 ,"Wayne, Pa. (Wayne) ",1959-61 ,Sr.,1961 ,6,9 
+32,267,Merrill Morgan ,G ,6-3 ,185 ,"Montclair, N.J. ",1959-61 ,Sr.,1961 ,6,3 
+0,297,Charlie Raksnis ,,0-0 ,0 ,,1961 ,,1961 ,0,0 
+23,387,Carroll Youngkin ,C ,6-6 ,210 ,"Winston-Salem, N.C. ",1959-61 ,Sr.,1961 ,6,6 
+40,146,Tom Gebbie ,C ,6-7 ,205 ,"Park Ridge, Ill. ",1962 ,Jr.,1962 ,6,7 
+21,162,Roger Hamilton ,F ,6-3 ,180 ,"Westerly, R.I. ",1962 ,So.,1962 ,6,3 
+15,207,Fred Kast ,C/F ,6-7 ,200 ,"Rahway, N.J. ",1959-62 ,Sr.,1962 ,6,7 
+35,260,Buzz Mewhort ,F ,6-4 ,200 ,"Toledo, Ohio ",1960-62 ,Sr.,1962 ,6,4 
+20,273,Jack Mullen ,G ,5-11 ,170 ,"Weissport, Pa. ",1960-62 ,Sr.,1962 ,5,11 
+0,314,Steve Salisbury ,,0-0 ,0 ,,1962 ,,1962 ,0,0 
+34,475,Fred Cox ,C ,6-6 ,205 ,"Pittsfield, Mass. ",1961-63 ,Sr.,1963 ,6,6 
+25,179,Art Heyman ,F/G ,6-5 ,205 ,"Rockville Center, N.Y. (Oceanside) ",1961-63 ,Sr.,1963 ,6,5 
+33,199,Bob Jamieson ,F,6-5 ,205 ,"Greensboro, N.C. ",1962-63 ,Sr.,1963 ,6,5 
+11,320,Fred Schmidt ,G ,6-4 ,190 ,"Philadelphia, Pa. ",1961-63 ,Sr.,1963 ,6,4 
+43,354,Bill Ulrich ,G ,5-10 ,170 ,"Audubon, N.J. ",1962-63 ,Sr.,1963 ,5,10 
+14,378,Scott Williamson ,F ,6-5 ,210 ,"Sanford, N.C. ",1961-63 ,Sr.,1963 ,6,5 
+22,54,Jay Buckley ,C ,6-10 ,225 ,"Cheverly, Md. ",1962-64 ,Sr.,1964 ,6,10 
+23,99,Ray Cox ,G ,6-0 ,165 ,"Durham, N.C. ",1962-64 ,Sr.,1964 ,6,0 
+30,167,Buzzy Harrison ,G ,6-3 ,190 ,"South Charleston, W.Va. ",1962-64 ,Sr.,1964 ,6,3 
+12,168,Frank Harscher ,G ,6-3 ,180 ,"Lexington, Ky. ",1964 ,So.,1964 ,6,3 
+45,241,Ted Mann ,F ,6-5 ,200 ,"Durham, N.C. ",1963-64 ,Jr.,1964 ,6,5 
+44,274,Jeff Mullins ,F/G ,6-4 ,185 ,"Lexington, Ky. (Lafayette) ",1962-64 ,Sr.,1964 ,6,4 
+52,405,Terry Murray ,G ,6-5 ,200 ,"Atlanta, Ga. ",1963-64 ,Sr.,1964 ,6,5 
+20,133,Denny Ferguson ,G ,6-0 ,170 ,"Springdale, Pa. ",1963-65 ,Sr.,1965 ,6,0 
+15,136,Burton Fitts ,F ,6-3 ,185 ,"Winston-Salem, N.C. ",1965 ,Sr.,1965 ,6,3 
+55,177,Ron Herbster ,G ,6-2 ,180 ,"Chester, Pa. ",1963-65 ,Sr.,1965 ,6,2 
+13,213,Brent Kitching ,F ,6-7 ,210 ,"Sharon Hill, Pa. ",1963-65 ,Sr.,1965 ,6,7 
+23,246,Elliott McBride ,G ,5-11 ,180 ,"Winston-Salem, N.C. ",1964-65 ,Sr.,1965 ,5,11 
+31,349,Hack Tison ,F ,6-10 ,210 ,"Geneva, Ill. ",1963-65 ,Sr.,1965 ,6,10 
+35,7,Phil Allen ,F ,6-4 ,195 ,"Syracuse, N.Y. ",1964-66 ,Sr.,1966 ,6,4 
+24,242,Jack Marin ,F ,6-6 ,200 ,"Farrell, Pa. (Farrell) ",1964-66 ,Sr.,1966 ,6,6 
+33,355,Steve Vacendak ,G ,6-1 ,190 ,"Scranton, Pa. ",1964-66 ,Sr.,1966 ,6,1 
+23,399,Dick Warren ,G ,5-11 ,150 ,"Charlotte, N.C. ",1966 ,So.,1966 ,5,11 
+14,388,Bill Zimmer ,G ,6-0 ,185 ,"Poland, Ohio ",1965-66 ,Sr.,1966 ,6,0 
+0,492,Bob Francis ,,0-0 ,0 ,,1967 ,,1967 ,0,0 
+32,231,Jim Liccardo ,F ,6-5 ,190 ,"West Orange, N.J. ",1965-67 ,Sr.,1967 ,6,5 
+21,251,Stuart McKaig ,G ,6-1 ,175 ,"Charlotte, N.C. ",1965-67 ,Sr.,1967 ,6,1 
+22,406,Bob Riedy ,C ,6-6 ,215 ,"Allentown, Pa. ",1965-67 ,Sr.,1967 ,6,6 
+11,359,Bob Verga ,G ,6-0 ,180 ,"Sea Girt, N.J. (Saint Rose's) ",1965-67 ,Sr.,1967 ,6,0 
+12,18,Tony Barone ,G ,5-8 ,145 ,"Chicago, Ill. ",1966-68 ,Sr.,1968 ,5,8 
+40,210,Joe Kennedy ,F ,6-6 ,210 ,"Bowie, Md. (DeMatha Catholic) ",1966-68 ,Sr.,1968 ,6,6 
+31,215,Tim Kolodziej ,F ,6-5 ,205 ,"Amsterdam, N.Y. ",1966-68 ,Sr.,1968 ,6,5 
+42,230,Mike Lewis ,C ,6-7 ,225 ,"Missoula, Mont. ",1966-68 ,Sr.,1968 ,6,7 
+22,367,Ron Wendelin ,G ,6-1 ,185 ,"Peoria, Ill. ",1966-68 ,Sr.,1968 ,6,1 
+54,75,Warren Chapman ,C ,6-8 ,220 ,"Seabrook, Texas ",1966-69 ,Sr.,1969 ,6,8 
+23,82,C.B. Claiborne ,F/G ,6-2 ,170 ,"Danville, Va. ",1967-69 ,Sr.,1969 ,6,2 
+20,152,Dave Golden ,G ,6-0 ,180 ,"Pekin, Ill. ",1967-69 ,Sr.,1969 ,6,0 
+53,232,Fred Lind ,F ,6-7 ,215 ,"Highland Park, Ill. ",1967-69 ,Sr.,1969 ,6,7 
+52,357,Steve Vandenberg ,F ,6-7 ,220 ,"Cresaptown, Md. ",1967-69 ,Sr.,1969 ,6,7 
+42,35,Don Blackman ,F ,6-6 ,210 ,"Brooklyn, N.Y. ",1970 ,So.,1970 ,6,6 
+33,197,Doug Jackson ,F ,6-5 ,185 ,"Overland Park, Kan. ",1968-70 ,Sr.,1970 ,6,5 
+41,218,Ray Kuhlmeier ,G ,6-2 ,175 ,"Aurora, Ind. ",1968-70 ,Sr.,1970 ,6,2 
+43,293,John Posen ,G ,6-2 ,195 ,"Cicero, Ill. ",1968-70 ,Sr.,1970 ,6,2 
+50,329,Glen Smiley ,F ,6-6 ,200 ,"Bozeman, Mont. ",1968-70 ,Sr.,1970 ,6,6 
+34,342,Tim Teer ,F ,6-3 ,185 ,"Hillsborough, N.C. ",1968-70 ,Sr.,1970 ,6,3 
+0,486,Judge Carr ,G ,6-2 ,175 ,"Durham, N.C. ",1971 ,Jr.,1971 ,6,2 
+24,109,Jeff Dawson ,G ,6-1 ,175 ,"Downers Grove, Ill. ",1971 ,So.,1971 ,6,1 
+31,115,Randy Denton ,C ,6-10 ,240 ,"Raleigh, N.C. (Enloe) ",1969-71 ,Sr.,1971 ,6,10 
+21,116,Dick DeVenzio ,G ,5-10 ,155 ,"Springdale, Pa. ",1969-71 ,Sr.,1971 ,5,10 
+32,130,Brad Evans ,G ,6-3 ,195 ,"Durham, N.C. ",1969-71 ,Sr.,1971 ,6,3 
+22,208,Rick Katherman ,F ,6-7 ,180 ,"Manchester, Mass. ",1969-71 ,Sr.,1971 ,6,7 
+40,234,Steve Litz ,F ,6-5 ,195 ,"Pittsburgh, Pa. ",1969-71 ,Sr.,1971 ,6,5 
+20,318,Larry Saunders ,C ,6-9 ,220 ,"Elmhurst, Ill. ",1970-71 ,Sr.,1971 ,6,9 
+15,120,Pat Doughty ,G ,5-10 ,170 ,"Tempe, Ariz. (Herrin, IL) ",1970-72 ,Sr.,1972 ,5,10 
+11,126,Zeno Edwards ,G ,6-1 ,165 ,"Washington, N.C. (Washington) ",1972 ,So.,1972 ,6,1 
+12,282,Richie O'Connor ,F ,6-4 ,210 ,"Union City, N.J. (St. Michael's) ",1971-72 ,Jr.,1972 ,6,4 
+32,303,Ron Righter ,F ,6-7 ,205 ,"Chalfont, Pa. (Doylestown) ",1972 ,So.,1972 ,6,7 
+30,371,Robby West ,G ,6-2 ,180 ,"South Orange, N.J. (Colombia) ",1970-72 ,Sr.,1972 ,6,2 
+35,383,Stu Yarbrough ,F ,6-5 ,200 ,"Durham, N.C. (Jordan) ",1970-72 ,Sr.,1972 ,6,5 
+25,257,Gary Melchionni ,G ,6-3 ,180 ,"Woodbury, N.J. (Bishop Eustace) ",1971-73 ,Sr.,1973 ,6,3 
+50,324,Alan Shaw ,C ,6-10 ,220 ,"Millville, N.J. (Millville) ",1971-73 ,Sr.,1973 ,6,10 
+11,58,Edgar Burch ,G ,6-3 ,175 ,"Pontiac, Mich. (Pontiac Central) ",1974 ,So.,1974 ,6,3 
+21,59,Jeff Burdette ,G ,5-11 ,165 ,"Buena Park, Calif. (Governor Livingstone) ",1972-74 ,Sr.,1974 ,5,11 
+40,80,Neil Chinault ,F ,6-5 ,205 ,"Peterstown, W.Va. (Peterstown) ",1973-74 ,Jr.,1974 ,6,5 
+34,93,Bob Cook ,F ,6-6 ,195 ,"Glen Rock, N.J. (Glen Rock) ",1973-74 ,So.,1974 ,6,6 
+0,398,Pete Cramer ,,0-0 ,0 ,,1974 ,,1974 ,0,0 
+53,300,Chris Redding ,F ,6-9 ,210 ,"Bethesda, Md. (Archbishop Carroll) ",1972-74 ,Sr.,1974 ,6,9 
+24,33,Kevin Billerman ,G ,6-2 ,170 ,"Bricktown, N.J. (St. Josephs) ",1973-75 ,Sr.,1975 ,6,2 
+42,137,Bob Fleischer ,F ,6-8 ,215 ,"Youngstown, Ohio (Liberty) ",1973-75 ,Sr.,1975 ,6,8 
+44,217,Pete Kramer ,F ,6-4 ,185 ,"Camp Hill, Pa. (Camp Hill) ",1973-75 ,Sr.,1975 ,6,4 
+23,338,Bill Suk ,G ,6-5 ,190 ,"Midlothian, Ill. (Bremen) ",1973-75 ,Sr.,1975 ,6,5 
+43,79,Terry Chili ,C ,6-9 ,215 ,"Jamestown, N.Y. (Jamestown) ",1973-76 ,Sr.,1976 ,6,9 
+22,141,Paul Fox ,G ,6-2 ,170 ,"Radnor, Pa. (Archbishop Carroll) ",1973-76 ,Sr.,1976 ,6,2 
+11,153,Rick Gomez ,G ,6-3 ,175 ,"Elizabeth, N.J. (Roselle) ",1975-76 ,So.,1976 ,6,3 
+14,184,Willie Hodge ,F ,6-9 ,210 ,"San Antonio, Texas (Sam Houston) ",1973-76 ,Sr.,1976 ,6,9 
+53,270,George Moses ,F ,6-5 ,215 ,"New York, N.Y. (C.E. Hughes) ",1975-76 ,Sr.,1976 ,6,5 
+20,281,Dave O'Connell ,G ,6-4 ,170 ,"Cincinnati, Ohio (McNicholas) ",1973-76 ,Sr.,1976 ,6,4 
+21,386,Kenny Young ,G ,5-10 ,160 ,"East Orange, N.J. (East Orange) ",1975-76 ,So.,1976 ,5,10 
+12,10,Tate Armstrong ,G ,6-2 ,180 ,"Houston, Texas (Spring Woods) ",1974-77 ,Sr.,1977 ,6,2 
+25,101,Mark Crow ,F ,6-7 ,195 ,"Richmond, Va. (Benedictine) ",1974-77 ,Sr.,1977 ,6,7 
+35,160,Cameron Hall ,C/F ,6-9 ,205 ,"Dundas, Canada (Parkside) ",1976-77 ,So.,1977 ,6,9 
+30,240,Rick Mainwaring ,G ,6-3 ,165 ,"Allentown, Pa. (Lehigh) ",1977 ,Jr.,1977 ,6,3 
+32,280,Geoff Northrop ,F ,6-6 ,205 ,"LaJolla, Calif. (LaJolla) ",1977 ,Sr.,1977 ,6,6 
+15,25,Bruce Bell ,G ,6-0 ,160 ,"Lexington, Ky. (Henry Clay) ",1975-78 ,Sr.,1978 ,6,0 
+44,151,Scott Goetsch ,C/F ,6-9 ,215 ,"Chatsworth, Calif. (Chatsworth) ",1976-79 ,Sr.,1979 ,6,9 
+23,157,Steve Gray ,G ,6-2 ,180 ,"Woodland Hills, Calif. (Woodland Hills) ",1976-79 ,Sr.,1979 ,6,2 
+14,163,Rob Hardy ,G ,6-3 ,170 ,"Columbus, Ohio ",1977-79 ,Sr.,1979 ,6,3 
+22,165,John Harrell ,G ,6-0 ,170 ,"Durham, N.C. ",1978-79 ,Sr.,1979 ,6,0 
+24,269,Harold Morrison ,F ,6-7 ,200 ,"West Orange, N.J. (West Orange) ",1976-79 ,Sr.,1979 ,6,7 
+34,332,Jim Spanarkel ,F/G ,6-5 ,205 ,"Jersey City, N.J. (Hudson Catholic) ",1976-79 ,Sr.,1979 ,6,5 
+21,28,Bob Bender ,G ,6-2 ,175 ,"Crown Point, Ind. ",1978-80 ,Sr.,1980 ,6,2 
+11,96,Jim Corrigan ,G ,5-11 ,165 ,"Winston-Salem, N.C. ",1980 ,Sr.,1980 ,5,11 
+43,149,Mike Gminski ,C ,6-11 ,240 ,"Monroe, Conn. (Masuk) ",1977-80 ,Sr.,1980 ,6,11 
+20,17,Gene Banks ,F ,6-7 ,205 ,"Philadelphia, Pa. (West) ",1978-81 ,Sr.,1981 ,6,7 
+33,114,Kenny Dennard ,F ,6-7 ,200 ,"Walnut Cove, N.C. (South Stokes) ",1978-81 ,Sr.,1981 ,6,7 
+0,392,Mack Dyke ,,0-0 ,0 ,,1981 ,,1981 ,0,0 
+23,233,Larry Linney ,F ,6-4 ,190 ,"Asheville, N.C. ",1980-81 ,Sr.,1981 ,6,4 
+30,337,Jim Suddath ,G/F ,6-6 ,190 ,"East Point, Ga. ",1978-81 ,Sr.,1981 ,6,6 
+0,366,Jon Weingart ,,0-0 ,0 ,,1981 ,,1981 ,0,0 
+42,142,Ned Franke ,F ,6-5 ,200 ,"Pinehurst, N.C. ",1982 ,Jr.,1982 ,6,5 
+12,341,Vince Taylor ,G ,6-5 ,180 ,"Lexington, Ky. (Tates Creek) ",1979-82 ,Sr.,1982 ,6,5 
+21,373,Gordon Whitted ,G ,6-2 ,165 ,"Winston-Salem, N.C. ",1981-82 ,Fr.,1982 ,6,2 
+55,374,Allen Williams ,F ,6-8 ,220 ,"Princeton, W.Va. ",1980-82 ,Jr.,1982 ,6,8 
+22,127,Tom Emma ,G ,6-2 ,175 ,"Manhasset, N.Y. ",1980-83 ,Sr.,1983 ,6,2 
+14,128,Chip Engelland ,G ,6-4 ,180 ,"Pacific Palisades, Calif. ",1980-83 ,Sr.,1983 ,6,4 
+34,196,Bill Jackman ,F ,6-9 ,210 ,"Grant, Neb. ",1983 ,Fr.,1983 ,6,9 
+31,350,Mike Tissaw ,F ,6-8 ,210 ,"Fairfax, Va. ",1980-83 ,Sr.,1983 ,6,8 
+25,368,Greg Wendt ,G/F ,6-6 ,200 ,"Livonia, Mich. ",1982-83 ,So.,1983 ,6,6 
+0,104,Vince Crump ,,0-0 ,0 ,,1984 ,,1984 ,0,0 
+23,140,Richard Ford ,G ,5-10 ,160 ,"Durham, N.C. (Durham) ",1982-84 ,Sr.,1984 ,5,10 
+11,253,Doug McNeely ,G ,6-5 ,200 ,"El Paso, Texas (Eastwood) ",1981-84 ,Sr.,1984 ,6,5 
+44,9,Todd Anderson ,F ,6-9 ,230 ,"Golden Valley, Minn. (Armstrong) ",1982-85 ,Sr.,1985 ,6,9 
+33,49,Jay Bryan ,F ,6-8 ,200 ,"Lakewood, CO (Bear Creek) ",1982-85 ,Sr.,1985 ,6,8 
+45,254,Dan Meagher ,F ,6-7 ,215 ,"St. Catherines, Ontario (Denis Morris) ",1982-85 ,Sr.,1985 ,6,7 
+32,1,Mark Alarie ,F ,6-8 ,220 ,"Scotsdale, Ariz. (Brophy Prep) ",1983-86 ,Sr.,1986 ,6,8 
+21,32,Jay Bilas ,F ,6-8 ,235 ,"Rolling Hills, Calif. (Rolling Hills) ",1983-86 ,Sr.,1986 ,6,8 
+24,108,Johnny Dawkins ,G ,6-2 ,170 ,"Washington, D.C. (Mackin Catholic) ",1983-86 ,Sr.,1986 ,6,2 
+12,173,David Henderson ,G/F ,6-5 ,195 ,"Dewry, N.C. (Warren County) ",1983-86 ,Sr.,1986 ,6,5 
+40,377,Weldon Williams ,F ,6-6 ,190 ,"Park Forest South, Ill. (Crete-Monee) ",1983-86 ,Sr.,1986 ,6,6 
+4,8,Tommy Amaker ,G ,6-0 ,155 ,"Falls Church, Va. (W.T. Woodson) ",1984-87 ,Sr.,1987 ,6,0 
+0,31,Andy Berndt ,,0-0 ,0 ,,1987 ,,1987 ,0,0 
+0,91,Dave Colonna ,,0-0 ,0 ,,1987 ,,1987 ,0,0 
+0,129,Rey Essex ,,0-0 ,0 ,,1987 ,,1987 ,0,0 
+0,154,Jon Goodman ,,0-0 ,0 ,,1987 ,,1987 ,0,0 
+51,276,Martin Nessley ,C ,7-2 ,260 ,"Whitehall, Ohio (Whitehall-Yearling) ",1984-87 ,Sr.,1987 ,7,2 
+55,211,Billy King ,F ,6-6 ,205 ,"Sterling, Va. ",1985-88 ,Sr.,1988 ,6,6 
+31,336,Kevin Strickland ,G ,6-5 ,190 ,"Mt. Airy, N.C. ",1985-88 ,Sr.,1988 ,6,5 
+42,61,George Burgin ,C ,7-0 ,215 ,"Fairfax, Va. ",1986-89 ,Sr.,1989 ,7,0 
+35,135,Danny Ferry ,C/F ,6-10 ,230 ,"Bowie, Md. (DeMatha Catholic) ",1986-89 ,Sr.,1989 ,6,10 
+33,330,John Smith ,F ,6-7 ,225 ,"Ft. Washington, Md. ",1986-89 ,Sr.,1989 ,6,7 
+14,331,Quin Snyder ,G ,6-3 ,180 ,"Mercer Island, Wash. ",1986-89 ,Sr.,1989 ,6,3 
+30,391,Alaa Abdelnaby ,C ,6-10 ,240 ,"Bloomfield, N.J. (Bloomfield) ",1987-90 ,Sr.,1990,6,10 
+21,44,Robert Brickey ,F ,6-5 ,205 ,"Fayetteville, N.C. ",1987-90 ,Sr.,1990 ,6,5 
+13,94,Joe Cook ,G ,6-2 ,195 ,"Lincoln, Ill. ",1988-90 ,Jr.,1990 ,6,2 
+3,174,Phil Henderson ,G ,6-4 ,180 ,"University Park, Ill. ",1987-90 ,Sr.,1990 ,6,4 
+45,52,Clay Buckley ,F/C ,6-10 ,245 ,"Wayne, Pa. ",1988-91 ,Sr.,1991 ,6,10 
+22,216,Greg Koubek ,F ,6-6 ,205 ,"Clifton Park, N.Y. ",1988-91 ,Sr.,1991 ,6,6 
+5,247,Bill McCaffrey ,G ,6-3 ,175 ,"Allentown, Pa. ",1990-91 ,So.,1991 ,6,3 
+34,284,Crawford Palmer ,C ,6-9 ,235 ,"Arlington, Va. ",1989-91 ,Jr.,1991 ,6,9 
+54,12,Christian Ast ,F ,6-8 ,205 ,"Beltsville, Md. (Hight Point) ",1991-92 ,So.,1992 ,6,8 
+5,62,Ron Burt ,G ,6-0 ,165 ,"Kansas City, Mo. (Gould Academy) ",1992 ,Sr.,1992 ,6,0 
+23,106,Brian Davis ,G/F ,6-7 ,195 ,"Chapel Heights, Md. (Bladensburg) ",1989-92 ,Sr.,1992 ,6,7 
+32,222,Christian Laettner ,F/C ,6-11 ,235 ,"Angola, N.Y. (Nichols School) ",1989-92 ,Sr.,1992 ,6,11 
+14,45,Kenney Brown ,G ,6-2 ,180 ,"Raleigh, N.C. (Athens Drive) ",1993 ,Jr.,1993 ,6,2 
+25,182,Thomas Hill ,G/F ,6-5 ,200 ,"Lancaster, Texas (Lancaster) ",1990-93 ,Sr.,1993 ,6,5 
+11,193,Bobby Hurley ,G ,6-2 ,165 ,"Jersey City, N.J. (St. Anthony's) ",1990-93 ,Sr.,1993 ,6,2 
+3,84,Marty Clark ,G ,6-6 ,200 ,"Westchester, Ill. (St. Joseph) ",1991-94 ,Sr.,1994 ,6,6 
+33,181,Grant Hill ,F/G ,6-8 ,225 ,"Reston, Va. (South Lakes) ",1991-94 ,Sr.,1994 ,6,8 
+21,225,Antonio Lang ,F ,6-8 ,205 ,"Mobile, Ala. (LeFlore) ",1991-94 ,Sr.,1994 ,6,8 
+42,24,Joey Beard ,F ,6-9 ,225 ,"Reston, Va. (South Lakes) ",1994-95 ,So.,1995 ,6,9 
+4,36,Kenny Blakeney ,G ,6-4 ,190 ,"Washington, DC (DeMatha) ",1991-95 ,Sr.,1995 ,6,4 
+52,256,Erik Meek ,C ,6-10 ,240 ,"Escondido, Calif. (San Pasqual) ",1992-95 ,Sr.,1995 ,6,10 
+44,286,Cherokee Parks ,F/C ,6-11 ,235 ,"Huntington Beach, Calif. (Marina) ",1992-95 ,Sr.,1995 ,6,11 
+31,48,Stan Brunson ,F ,6-7 ,215 ,"Newark, Del. (Christian) ",1993-96 ,Sr.,1996 ,6,7 
+20,90,Chris Collins ,G ,6-3 ,175 ,"Northbrook, Ill. (Glenbrook North) ",1993-96 ,Sr.,1996 ,6,3 
+0,161,Jeremy Hall ,,0-0 ,0 ,,1996 ,,1996 ,0,0 
+30,265,Tony Moore ,F ,6-8 ,240 ,"Washington, DC (Newport Prep) ",1993-96 ,Sr.,1996 ,6,8 
+0,289,Baker Perry ,,0-0 ,0 ,,1996 ,,1996 ,0,0 
+5,68,Jeff Capel ,G ,6-5 ,195 ,"Fayetteville, N.C. (South View) ",1994-97 ,Sr.,1997 ,6,5 
+55,279,Greg Newton ,F/C ,6-10 ,245 ,"Niagara Falls, Ontario (A.N. Myer) ",1994-97 ,Sr.,1997 ,6,10 
+34,361,Carmen Wallace ,F ,6-6 ,205 ,"Wilmington, Del. (Tower Hill) ",1994-97 ,Sr.,1997 ,6,6 
+0,76,Mike Chappell ,F ,6-8 ,195 ,"Southfield, Mich. (Southfield-Lathrup) ",1997-98 ,So.,1998 ,6,8 
+4,252,Roshown McLeod ,F ,6-8 ,220 ,"Jersey City, N.J. (St. Anthony's) ",1996-98 ,Sr.,1998 ,6,8 
+3,295,Ricky Price ,G/F ,6-6 ,190 ,"Gardena, Calif. (Serra) ",1995-98 ,Sr.,1998 ,6,6 
+15,328,Todd Singleton ,F ,6-4 ,195 ,"Severn, Md. (Old Mill) ",1995-98 ,Sr.,1998 ,6,4 
+12,380,Steve Wojciechowski ,G ,5-11 ,180 ,"Severna Park, Md. (Cardinal Gibbons) ",1995-98 ,Sr.,1998 ,5,11 
+5,14,William Avery ,G ,6-2 ,180 ,"Augusta, Ga. (Oak Hill (Va.)) ",1998-99 ,So.,1999 ,6,2 
+42,42,Elton Brand ,F ,6-8 ,260 ,"Peeskill, N.Y. (Peeskill) ",1998-99 ,So.,1999 ,6,8 
+0,50,D. Bryant ,,0-0 ,0 ,,1999 ,,1999 ,0,0 
+34,60,Chris Burgess ,C ,6-10 ,250 ,"Irvine, Calif. (Woodbridge) ",1998-99 ,So.,1999 ,6,10 
+31,64,Justin Caldbeck ,G ,6-3 ,180 ,"Shelburne, Vt. (Rice Memorial) ",1997-99 ,Sr.,1999 ,6,3 
+40,119,Taymon Domzalski ,C ,6-10 ,245 ,"Lovington, N.M. (NM Military Instit.) ",1996-99 ,Sr.,1999 ,6,10 
+22,172,Jay Heaps ,G ,5-9 ,155 ,"Longmeadow, Mass. (Longmeadow) ",1996-99 ,Sr.,1999 ,5,9 
+21,226,Trajan Langdon ,G ,6-4 ,195 ,"Anchorage, Alaska (East Anchorage) ",1995-99 ,Sr.,1999 ,6,4 
+50,239,Corey Maggette ,F ,6-6 ,215 ,"Bellwood, Ill. (Fenwick) ",1999 ,Fr.,1999 ,6,6 
+23,70,Chris Carrawell ,F ,6-6 ,215 ,"St.Louis, Mo. (Cardinal Ritter) ",1997-00 ,Sr.,2000 ,6,6 
+31,21,Shane Battier ,F ,6-8 ,220 ,"Birmingham, Mich. (Country Day) ",1998-01 ,Sr.,2001 ,6,8 
+5,65,Ryan Caldbeck ,G ,6-3 ,190 ,"Shelburne, Vt. (Rice Memorial) ",1999-01 ,Sr.,2001 ,6,3 
+14,198,Nate James ,F/G ,6-6 ,205 ,"Washington, DC (St. John) ",1997-01 ,Sr.,2001 ,6,6 
+13,327,J.D. Simpson ,G ,6-4 ,200 ,"Woodside, Calif. (St. Francis) ",1998-01 ,Sr.,2001 ,6,4 
+12,339,Andre Sweet ,G/F ,6-6 ,205 ,"Manhattan, N.Y. (Brother Rice) ",2001 ,Fr.,2001 ,6,6 
+4,38,Carlos Boozer ,C ,6-9 ,280 ,"Juneau, Alaska (Juneau-Douglas) ",2000-02 ,Jr.,2002 ,6,9 
+45,74,Mark Causey ,G ,6-3 ,180 ,"Gainesville, Ga. (East Hall) ",2002 ,Fr.,2002 ,6,3 
+41,81,Matt Christensen ,F ,6-10 ,265 ,"Belmont, Mass. (Belmont) ",1996-02 ,Sr.,2002 ,6,10 
+34,124,Mike Dunleavy ,G/F ,6-9 ,220 ,"Lake Oswego, Ore. (Jesuit) ",2000-02 ,Jr.,2002 ,6,9 
+22,375,Jason Williams ,G ,6-2 ,195 ,"Plainfield, N.J. (St. Joseph's) ",2000-02 ,Jr.,2002 ,6,2 
+15,55,Andre Buckner ,G ,5-10 ,170 ,"Hopkinsville, Ky. (University Heights) ",2000-03 ,Sr.,2003 ,5,10 
+30,204,Dahntay Jones ,G/F ,6-6 ,210 ,"Trenton, N.J. (Steinert) ",2001-03 ,Sr.,2003 ,6,6 
+20,315,Casey Sanders ,C ,6-11 ,235 ,"Tampa, Fla. (Tampa Prep) ",2000-03 ,Sr.,2003 ,6,11 
+40,39,Andy Borman ,G ,6-1 ,180 ,"Morrisville, N.C. (Bradenton [Fla.]) ",2000-04 ,Sr.,2004 ,6,1 
+2,111,Luol Deng ,F ,6-8 ,220 ,"London, England (Blair Academy [N.J.]) ",2004 ,Fr.,2004 ,6,8 
+21,123,Chris Duhon ,G ,6-1 ,190 ,"Slidell, La. (Salmen) ",2001-04 ,Sr.,2004 ,6,1 
+3,189,Nick Horvath ,F ,6-10 ,250 ,"Shoreview, Minn. (Mounds View) ",2000-04 ,Sr.,2004 ,6,10 
+13,255,Andy Means ,G ,6-5 ,200 ,"Indianapolis, Ind. (Lawrence North) ",2002-04 ,Sr.,2004 ,6,5 
+50,346,Michael Thompson ,C ,6-10 ,250 ,"Joliet, Ill. (Providence Catholic) ",2003-04 ,So.,2004 ,6,10 
+5,131,Daniel Ewing ,G ,6-3 ,185 ,"Missouri City, Texas (Willowridge) ",2002-05 ,Sr.,2005 ,6,3 
+42,237,Reggie Love ,F ,6-4 ,225 ,"Charlotte, N.C. (Providence Day) ",2001-05 ,Sr.,2005 ,6,4 
+50,402,Tom Novick ,F ,6-6 ,190 ,"Charlotte, N.C. (Charlotte Catholic) ",2005 ,So.,2005 ,6,6 
+42,298,Shavlik Randolph ,F ,6-10 ,245 ,"Raleigh, N.C. (Broughton) ",2003-05 ,Jr.,2005 ,6,10 
+45,493,Eric Boateng ,C ,6-10 ,255 ,"London, England (St. Andrews [Del.]) ",2006 ,Fr.,2006 ,6,10 
+41,105,Patrick Davidson ,G ,6-0 ,190 ,"Melbourne, Ark. (Blair Academy [N.J.]) ",2004-06 ,Jr.,2006 ,6,0 
+15,117,Sean Dockery ,G ,6-2 ,185 ,"Chicago, Ill. (Julian) ",2003-06 ,Sr.,2006 ,6,2 
+51,203,Patrick Johnson ,F/C ,6-9 ,250 ,"Atlanta, Ga. (Grady) ",2003-06 ,Sr.,2006 ,6,9 
+13,258,Lee Melchionni ,F ,6-6 ,205 ,"Lancaster, Pa. (Germantown Academy) ",2003-06 ,Sr.,2006 ,6,6 
+40,403,Ross Perkins ,G ,6-4 ,200 ,"Greensboro, N.C. (Greensboro Day) ",2005-06 ,Sr.,2006 ,6,4 
+4,299,J.J. Redick ,G ,6-4 ,190 ,"Roanoke, Va. (Cave Spring) ",2003-06 ,Sr.,2006 ,6,4 
+23,376,Shelden Williams ,F ,6-9 ,250 ,"Forest Park, Okla. (Midwest City) ",2003-06 ,Sr.,2006 ,6,9 
+34,494,Jamal Boykin ,F ,6-7 ,230 ,"Los Angeles, Calif. (Fairfax) ",2006-07 ,So.,2007 ,6,7 
+2,496,Josh McRoberts ,F/C ,6-10 ,230 ,"Carmel, Ind. (Carmel) ",2006-07 ,So.,2007 ,6,10 
+45,390,Joe Pagliuca ,G ,6-2 ,185 ,"Weston, Mass. (Belmont Hill) ",2004-07 ,Sr.,2007 ,6,2 
+13,570,Nick Sutton ,G ,6-2 ,180 ,"Kentfield, Calif. (The Branson School) ",2007 ,Fr.,2007 ,6,2 
+40,571,Griffin Tormey ,G ,5-11 ,165 ,"Chicago, Ill. (St. Ignatius College) ",2007 ,So.,2007 ,5,11 
+20,2471,Taylor King ,F ,6-6 ,230 ,"Huntington Beach, Calif. (Mater Dei) ",2008 ,Fr.,2008 ,6,6 
+21,401,DeMarcus Nelson ,G ,6-3 ,195 ,"Elk Grove, Calif. (Sheldon) ",2005-08 ,Sr.,2008 ,6,3 
+15,517,Gerald Henderson ,G ,6-4 ,215 ,"Merion, Pa. (Episcopal Academy) ",2007-09 ,Jr.,2009 ,6,4 
+14,404,Dave McClure ,F ,6-6 ,205 ,"Ridgefield, Conn. (Trinity Catholic) ",2005-09 ,Sr.,2009 ,6,6 
+3,497,Greg Paulus ,G ,6-1 ,185 ,"Syracuse, N.Y. (Christian Brothers) ",2006-09 ,Sr.,2009 ,6,1 
+5,498,Martynas Pocius ,G/F ,6-4 ,185 ,"Vilnius, Lithuania (Holderness [N.H.]) ",2006-09 ,Sr.,2009 ,6,4 
+20,2735,Elloit Williams ,G ,6-4 ,180 ,"Memphis, Tenn. (St. George's) ",2009 ,Fr.,2009 ,6,4 
+13,2733,Olek Czyz ,F ,6-7 ,240 ,"Reno, Nev. (Reno) ",2009-10 ,So.,2010 ,6,7 
+12,495,Jordan Davidson ,G ,6-1 ,180 ,"Melbourne, Ark. (Blair Academy [N.J.]) ",2006-10 ,Sr.,2010 ,6,1 
+51,569,Steve Johnson ,F ,6-5 ,195 ,"Colorado Springs, Colo. (Cheyenne Mountain) ",2007-10 ,Sr.,2010 ,6,5 
+30,518,Jon Scheyer ,G ,6-5 ,180 ,"Northbrook, Ill. (Glenbrook North) ",2007-10 ,Sr.,2010 ,6,5 
+42,519,Lance Thomas ,F ,6-8 ,215 ,"Scotch Plains, N.J. (St. Benedict) ",2007-10 ,Sr.,2010 ,6,8 
+55,520,Brian Zoubek ,C ,7-1 ,250 ,"Haddonfield, N.J. (Haddonfield Memorial) ",2007-10 ,Sr.,2010 ,7,1 
+1,2742,Kyrie Irving ,G ,6-2 ,180 ,"West Orange, N.J. (St. Patrick's) ",2011 ,Fr.,2011 ,6,2 
+53,2739,Casey Peters ,G ,6-4 ,185 ,"Red Bank, N.J. (Red Bank Regional) ",2010-11 ,Sr.,2011 ,6,4 
+12,2472,Kyle Singler ,F ,6-8 ,220 ,"Medford, Ore. (South Medford) ",2008-11 ,Sr.,2011 ,6,8 
+2,2473,Nolan Smith ,G ,6-2 ,180 ,"Upper Marlboro, Md. (Oak Hill Academy [Va.]) ",2008-11 ,Sr.,2011 ,6,2 
+13,2746,Michael Gbinije ,G/F ,6-7 ,205 ,"Chester, Va. (Benedictine) ",2012 ,Fr.,2012 ,6,7 
+21,2734,Miles Plumlee ,F ,6-10 ,230 ,"Warsaw, Ind. (Christ School [N.C.]) ",2009-12 ,Sr.,2012 ,6,10 
+0,2749,Austin Rivers ,G ,6-4 ,200 ,"Winter Park, Fla. (Winter Park) ",2012 ,Fr.,2012 ,6,4 
+3,2736,Seth Curry ,G ,6-1 ,175 ,"Charlotte, N.C. (Charlotte Christian) ",2010-13 ,Sr.,2013 ,6,1 
+34,2738,Ryan Kelly ,F ,6-10 ,220 ,"Raleigh, N.C. (Ravenscroft) ",2010-13 ,Sr.,2013 ,6,10 
+12,2747,Alex Murphy ,F ,6-8 ,220 ,"Wakefield, R.I. (South Kingston) ",2012-13 ,So.,2013 ,6,8 
+5,2740,Mason Plumlee ,F ,6-10 ,230 ,"Warsaw, Ind. (Christ School [N.C.]) ",2010-13 ,Sr.,2013 ,6,10 
+20,2737,Andre Dawkins ,G ,6-4 ,190 ,"Chesapeke, Va. (Atlantic Shores Christian) ",2010-14 ,Gr.,2014 ,6,4 
+15,2741,Josh Hairston ,F ,6-7 ,210 ,"Fredricksburg, Va. (Montrose Christiana) ",2011-14 ,Sr.,2014 ,6,7 
+13,2750,Rodney Hood ,F ,6-8 ,210 ,"Meridian, Miss. (Meridian) ",2013-14 ,So.,2014 ,6,8 
+1,2756,Jabari Parker ,F ,6-8 ,235 ,"Chicago, Ill. (Simeon Career Academy) ",2014 ,Fr.,2014 ,6,8 
+3,2743,Tyler Thornton ,G ,6-1 ,185 ,"Washington, D.C. (Gonzaga) ",2011-14 ,Sr.,2014 ,6,1 
+52,2744,Todd Zafirovski ,F ,6-9 ,235 ,"Lake Forest, Ill. (Lake Forest Academy) ",2011-14 ,Sr.,2014 ,6,9 
+2,2745,Quinn Cook ,G ,6-0 ,175 ,"Bowie, Md. (Oak Hill Academy [Va.]) ",2012-15 ,Sr.,2015 ,6,0 
+5,2758,Tyus Jones ,G ,6-1 ,190 ,"Apple Valley, Minn. (Apple Valley) ",2015 ,Fr.,2015 ,6,1 
+42,2759,Sean Kelly ,G ,6-3 ,195 ,"Raleigh, N.C. (Ravenscroft) ",2015 ,Sr.,2015 ,6,3 
+20,2754,Semi Ojeleye ,F ,6-7 ,230 ,"Ottawa, Kan. (Ottawa) ",2014-15 ,So.,2015 ,6,7 
+15,2761,Jahlil Okafor ,C ,6-11 ,270 ,"Chicago, Ill. (Whitney Young) ",2015 ,Fr.,2015 ,6,11 
+14,2751,Rasheed Sulaimon ,G ,6-4 ,185 ,"Houston, Texas (Strake Jesuit College Prep) ",2013-15 ,Jr.,2015 ,6,4 
+12,2762,Justise Winslow ,F ,6-6 ,225 ,"Houston, Texas (Saint John's) ",2015 ,Fr.,2015 ,6,6 
+14,2764,Brandon Ingram ,G ,6-9 ,190 ,"Kinston, N.C. (Kinston) ",2016 ,Fr.,2016 ,6,9 
+40,2748,Marshall Plumlee ,F ,6-11 ,225 ,"Warsaw, Ind. (Christ School [N.C.]) ",2012-16 ,Gr.,2016 ,6,11 
+12,2768,Derryck Thornton ,G ,6-2 ,175 ,"Chatsworth, Calif. (Findlay Prep [Nev.]) ",2016 ,Fr.,2016 ,6,2 
+1,2772,Harry Giles ,F ,6-0 ,240 ,"Winston-Salem, N.C. (Forest Trail) ",2017 ,Fr.,2017 ,6,0 
+15,2773,Frank Jackson ,G ,6-3 ,205 ,"Alpine, Utah (Lone Peak) ",2017 ,Fr.,2017 ,6,3 
+21,2752,Amile Jefferson ,F ,6-8 ,195 ,"Philadelphia, Pa. (Friends Central School) ",2013-17 ,Gr.,2017 ,6,8 
+2,2765,Chase Jeter ,F ,6-10 ,240 ,"Las Vegas, Nev. (Bishop Gorman) ",2016-17 ,So.,2017 ,6,10 
+13,2753,Matt Jones ,G ,6-4 ,200 ,"DeSoto, Texas (DeSoto) ",2014-17 ,Sr.,2017 ,6,4 
+5,2766,Luke Kennard ,G ,6-5 ,180 ,"Franklin, Ohio (Franklin) ",2016-17 ,So.,2017 ,6,5 
+34,2760,Sean Obi ,F ,6-9 ,270 ,"Kaduna, (Green Farms Academy) ",2015-17 ,Sr.,2017 ,6,9 
+45,2755,Nick Pagliuca ,G ,6-3 ,175 ,"Weston, Mass. (Milton Academy) ",2014-17 ,Sr.,2017 ,6,3 
+0,2774,Jayson Tatum ,F ,6-8 ,205 ,"St. Louis, Mo. (Chaminade College Prep) ",2017 ,Fr.,2017 ,6,8 
+3,2757,Grayson Allen ,G ,6-4 ,195 ,"Jacksonville, Fla. (Providence School) ",2015-18 ,Sr.,2018 ,6,4 
+35,2776,Marvin Bagley ,F ,6-11 ,234 ,"Phoenix, Ariz. (Sierra Canyon [Calif.]) ",2018 ,Fr.,2018 ,6,11 
+53,2763,Brennan Besser ,G ,6-5 ,180 ,"Chicago, Ill. (Latin School) ",2016-18 ,Sr.,2018 ,6,5 
+20,2770,Marques Bolden ,C ,6-11 ,245 ,"DeSoto, Texas (DeSoto) ",2017-18 ,Jr.,2018 ,6,11 
+51,2777,Mike Buckmire ,G ,6-2 ,172 ,"Blue Bell, Pa. (Germantown Friends School) ",2018 ,Sr.,2018 ,6,2 
+34,2778,Wendell Carter ,F ,6-10 ,259 ,"Atlanta, Ga. (Pace Academy) ",2018 ,Fr.,2018 ,6,10 
+12,2771,Javin DeLaurier ,F ,6-10 ,220 ,"Shipman, Va. (Saint Anne's-Belfield) ",2017-18 ,Sr.,2018 ,6,10 
+1,2779,Trevon Duval ,G ,6-3 ,186 ,"New Castle, Del. (IMG Academy [Fla.]) ",2018 ,Fr.,2018 ,6,3 
+14,2780,Jordan Goldwire ,G ,6-2 ,172 ,"Norcross, Ga. (Norcross) ",2018 ,Sr.,2018 ,6,2 
+15,2781,Alex O'Connell ,G ,6-6 ,171 ,"Roswell, Ga. (Milton) ",2018 ,Jr.,2018 ,6,6 
+50,2767,Justin Robinson ,F ,6-8 ,190 ,"San Antonio, Texas (San Antonio Christian) ",2016-18 ,Gr.,2018 ,6,8 
+2,2782,Gary Trent ,G ,6-6 ,209 ,"Columbus, Ohio (Prolific Prep [Calif.]) ",2018 ,Fr.,2018 ,6,6 
+5,2783,Jordan Tucker ,F ,6-7 ,212 ,"White Plains, N.Y. (Wheeler [Ga.]) ",2018 ,Fr.,2018 ,6,7 
+30,2769,Antonio Vrankovic ,C ,7-0 ,270 ,"Delray Beach, Fla. (Pine Chrest) ",2016-18 ,Sr.,2018 ,7,0 
+41,2775,Jack White ,F ,6-7 ,215 ,"Traralgon, Victoria (Australian Institute of Sport) ",2017-18 ,Sr.,2018 ,6,7 
+5,2785,RJ Barrett,F,6-7,202,,2019,Fr.,2019,6,7
+2,2787,Cam Reddish,F/G ,6-8,218,,2019,Fr.,2019,6,8
+1,2788,Zion Williamson,F,6-7,285,,2019,Fr.,2019,6,7
+3,2786,Tre Jones,G,6-3,185,,2019-20 ,So.,2020,6,3
+1,2789,Vernon Carey Jr.,C ,6-10,270,,2020,Fr.,2020,6,10
+2,2793,Cassius Stanley,G,6-6,193,,2020,Fr.,2020,6,6
+21,2790,Matthew Hurt,F,6-9,235,,2020-21 ,So.,2021,6,9
+5,2795,Jaemyn Brakefield,F,6-8,216,,2021,Fr.,2021,6,8
+34,2796,Henry Coleman III,F,6-7,229,,2021,Fr.,2021,6,7
+1,2797,Jalen Johnson,F,6-9,220,,2021,Fr.,2021,6,9
+2,2799,DJ Steward,G,6-2,163,,2021,Fr.,2021,6,2
+12,2801,Patrick Tape,F/C ,6-9,233,,2021,Gr.,2021,6,9
+13,2784,Joey Baker,F,6-6,206,,2019-22 ,Sr.,2022,6,6
+0,2791,Wendell Moore Jr.,F/G ,6-5,213,,2020-22 ,Jr.,2022,6,5
+30,2792,Michael Savarino,G,6-0,182,,2020-22 ,Jr.,2022,6,0
+45,2794,Keenan Worthington,F,6-8,224,,2020-22 ,Jr.,2022,6,8
+15,2800,Mark Williams,C ,7-1,242,,2021-22 ,So.,2022,7,1
+5,2802,Paolo Banchero,F,6-10,250,,2022,Fr.,2022,6,10
+21,2805,A.J. Griffin,F,6-6,222,,2022,Fr.,2022,6,6
+12,2806,Theo John,F/C ,6-9,242,,2022,Gr.,2022,6,9
+34,2807,Bates Jones,F,6-8,222,,2022,Gr.,2022,6,8
+1,2808,Trevor Keels,G,6-5,221,,2022,Fr.,2022,6,5
+3,2798,Jeremy Roach,G,6-2,172,,2021-23 ,Jr.,2023,6,2
+2,2803,Jaylen Blakes,G,6-2,208,,2022-23 ,So.,2023,6,2
+52,2804,Stanley Borden,C ,7-0,240,,2022-23 ,So.,2023,7,0
+55,2809,Spencer Hubbard,F,5-8,160,,2022-23 ,Jr.,2023,5,8
+12,2810,Kale Catchings,F,6-6,220,,2023,Gr.,2023,6,6
+30,2811,Kyle Filipowski,C/F,6-11,220,,2023,Fr.,2023,6,11
+13,2812,Jacob Grandison,G/F ,6-6,210,,2023,Gr.,2023,6,6
+41,2813,Max Johns,G,6-4,205,,2023,Gr.,2023,6,4
+1,2814,Dereck Lively II,C/F,7-1,215,,2023,Fr.,2023,7,1
+25,2815,Mark Mitchell,F,6-8,215,,2023,Fr.,2023,6,8
+5,2816,Tyrese Proctor,G,6-5,178,,2023,Fr.,2023,6,5
+21,2817,Christian Reeves,C,6-11,210,,2023,Fr.,2023,6,11
+14,2818,Jaden Schutt,G,6-4,175,,2023,Fr.,2023,6,4
+0,2819,Dariq Whitehead,F/G ,6-6,190,,2023,Fr.,2023,6,6
+15,2820,Ryan Young,C,6-10,240,,2023,Gr.,2023,6,10
+,,,,,,,,,,,
+,,,,,,,,,,,
