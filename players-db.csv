@@ -571,39 +571,67 @@
 30,2769,Antonio Vrankovic ,C ,7-0 ,270 ,"Delray Beach, Fla. (Pine Chrest) ",2016-18 ,Sr.,2018 ,7,0 
 41,2775,Jack White ,F ,6-7 ,215 ,"Traralgon, Victoria (Australian Institute of Sport) ",2017-18 ,Sr.,2018 ,6,7 
 5,2785,RJ Barrett,F,6-7 ,202,,2019,Fr.,2019,6,7
-2,2787,Cam Reddish,F/G ,8-Jun,218,,2019,Fr.,2019,6,8
-1,2788,Zion Williamson,F,7-Jun,285,,2019,Fr.,2019,6,7
-3,2786,Tre Jones,G,3-Jun,185,,2019-20 ,So.,2020,6,3
-1,2789,Vernon Carey Jr.,C ,10-Jun,270,,2020,Fr.,2020,6,10
-2,2793,Cassius Stanley,G,6-Jun,193,,2020,Fr.,2020,6,6
-21,2790,Matthew Hurt,F,9-Jun,235,,2020-21 ,So.,2021,6,9
-5,2795,Jaemyn Brakefield,F,8-Jun,216,,2021,Fr.,2021,6,8
-34,2796,Henry Coleman III,F,7-Jun,229,,2021,Fr.,2021,6,7
-1,2797,Jalen Johnson,F,9-Jun,220,,2021,Fr.,2021,6,9
-2,2799,DJ Steward,G,2-Jun,163,,2021,Fr.,2021,6,2
-12,2801,Patrick Tape,F/C ,9-Jun,233,,2021,Gr.,2021,6,9
-13,2784,Joey Baker,F,6-Jun,206,,2019-22 ,Sr.,2022,6,6
-0,2791,Wendell Moore Jr.,F/G ,5-Jun,213,,2020-22 ,Jr.,2022,6,5
-30,2792,Michael Savarino,G,Jun-00,182,,2020-22 ,Jr.,2022,6,0
-45,2794,Keenan Worthington,F,8-Jun,224,,2020-22 ,Jr.,2022,6,8
-15,2800,Mark Williams,C ,1-Jul,242,,2021-22 ,So.,2022,7,1
-5,2802,Paolo Banchero,F,10-Jun,250,,2022,Fr.,2022,6,10
-21,2805,A.J. Griffin,F,6-Jun,222,,2022,Fr.,2022,6,6
-12,2806,Theo John,F/C ,9-Jun,242,,2022,Gr.,2022,6,9
-34,2807,Bates Jones,F,8-Jun,222,,2022,Gr.,2022,6,8
-1,2808,Trevor Keels,G,5-Jun,221,,2022,Fr.,2022,6,5
-3,2798,Jeremy Roach,G,2-Jun,172,,2021-23 ,Jr.,2023,6,2
-2,2803,Jaylen Blakes,G,2-Jun,208,,2022-23 ,So.,2023,6,2
-52,2804,Stanley Borden,C ,Jul-00,240,,2022-23 ,So.,2023,7,0
-55,2809,Spencer Hubbard,F,8-May,160,,2022-23 ,Jr.,2023,5,8
-12,2810,Kale Catchings,F,6-Jun,220,,2023,Gr.,2023,6,6
-30,2811,Kyle Filipowski,C/F,11-Jun,220,,2023,Fr.,2023,6,11
-13,2812,Jacob Grandison,G/F ,6-Jun,210,,2023,Gr.,2023,6,6
-41,2813,Max Johns,G,4-Jun,205,,2023,Gr.,2023,6,4
-1,2814,Dereck Lively II,C/F,1-Jul,215,,2023,Fr.,2023,7,1
-25,2815,Mark Mitchell,F,8-Jun,215,,2023,Fr.,2023,6,8
-5,2816,Tyrese Proctor,G,5-Jun,178,,2023,Fr.,2023,6,5
-21,2817,Christian Reeves,C,11-Jun,210,,2023,Fr.,2023,6,11
-14,2818,Jaden Schutt,G,4-Jun,175,,2023,Fr.,2023,6,4
-0,2819,Dariq Whitehead,F/G ,6-Jun,190,,2023,Fr.,2023,6,6
-15,2820,Ryan Young,C,10-Jun,240,,2023,Gr.,2023,6,10
+2,2787,Cam Reddish,F/G ,6-8,218,,2019,Fr.,2019,6,8
+1,2788,Zion Williamson,F,6-7,285,,2019,Fr.,2019,6,7
+3,2786,Tre Jones,G,6-3,185,,2019-20 ,So.,2020,6,3
+1,2789,Vernon Carey Jr.,C ,6-10,270,,2020,Fr.,2020,6,10
+2,2793,Cassius Stanley,G,6-6,193,,2020,Fr.,2020,6,6
+21,2790,Matthew Hurt,F,6-9,235,,2020-21 ,So.,2021,6,9
+5,2795,Jaemyn Brakefield,F,6-9,216,,2021,Fr.,2021,6,8
+34,2796,Henry Coleman III,F,6-7,229,,2021,Fr.,2021,6,7
+1,2797,Jalen Johnson,F,6-9,220,,2021,Fr.,2021,6,9
+2,2799,DJ Steward,G,6-2,163,,2021,Fr.,2021,6,2
+12,2801,Patrick Tape,F/C ,6-9,233,,2021,Gr.,2021,6,9
+13,2784,Joey Baker,F,6-6,206,,2019-22 ,Sr.,2022,6,6
+0,2791,Wendell Moore Jr.,F/G ,6-5,213,,2020-22 ,Jr.,2022,6,5
+30,2792,Michael Savarino,G,6-0,182,,2020-22 ,Jr.,2022,6,0
+45,2794,Keenan Worthington,F,6-8,224,,2020-22 ,Jr.,2022,6,8
+15,2800,Mark Williams,C ,7-1,242,,2021-22 ,So.,2022,7,1
+5,2802,Paolo Banchero,F,6-10,250,,2022,Fr.,2022,6,10
+21,2805,A.J. Griffin,F,6-6,222,,2022,Fr.,2022,6,6
+12,2806,Theo John,F/C ,6-9,242,,2022,Gr.,2022,6,9
+34,2807,Bates Jones,F,6-8,222,,2022,Gr.,2022,6,8
+1,2808,Trevor Keels,G,6-5,221,,2022,Fr.,2022,6,5
+3,2798,Jeremy Roach,G,6-2,180,,2021-24,Sr.,2024,6,2
+2,2803,Jaylen Blakes,G,6-2,204,,2022-24,Jr.,2024,6,2
+52,2804,Stanley Borden,C ,7-0,241,,2022-24,Jr.,2024,7,0
+55,2809,Spencer Hubbard,F,5-8,157,,2022-24 ,Sr.,2024,5,8
+12,2810,Kale Catchings,F,6-6,220,,2023,Gr.,2023,6,6
+30,2811,Kyle Filipowski,C/F,7-0,248,,2023-24,So.,2024,7,0
+13,2812,Jacob Grandison,G/F ,6-6,210,,2023,Gr.,2023,6,6
+41,2813,Max Johns,G,6-4,205,,2023,Gr.,2023,6,4
+1,2814,Dereck Lively II,C/F,7-1,215,,2023,Fr.,2023,7,1
+25,2815,Mark Mitchell,F,6-9,232,,2023-24,So.,2024,6,9
+5,2816,Tyrese Proctor,G,6-5,183,,2023-24,So.,2024,6,5
+21,2817,Christian Reeves,C,7-1,261,,2023-24,So.,2024,7,1
+14,2818,Jaden Schutt,G,6-5,190,,2023-24,So.,2024,6,5
+0,2819,Dariq Whitehead,F/G ,6-6,190,,2023,Fr.,2023,6,6
+15,2820,Ryan Young,C,6-10,238,,2023-24,Gr.,2024,6,10
+20,2821,Neal Begovich,F,6-9,230,,2024,Gr.,2024,6,9
+1,2822,Caleb Foster,G,6-5,197,,2024,Fr.,2024,6,5
+0,2823,Jared McCain,G,6-3,197,,2024,Fr.,2024,6,3
+12,2824,TJ Power,F,6-9,216,,2024,Fr.,2024,6,9
+13,2825,Sean Stewart,F/C ,6-9,227,,2024,Fr.,2024,6,9
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
