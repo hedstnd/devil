@@ -143,7 +143,7 @@ function incorrect(pG) {
 
 function correct() {
 	toDoc = "";
-	toDoc+= "<tr><td class='grn'>"+player.name+"</td><td class='grn'>"+player.pos+"</td><td class='grn'>"+player.season4+"</td><td class='grn'>"+player.class+"</td><td> class='grn'"+player.htft+"'"+player.htin+"</td><td class='grn'>"+player.num+"</td></tr>";
+	toDoc+= "<tr><td class='grn'>"+player.name+"</td><td class='grn'>"+player.pos+"</td><td class='grn'>"+player.season4+"</td><td class='grn'>"+player.class+"</td><td class='grn'>"+player.htft+"'"+player.htin+"</td><td class='grn'>"+player.num+"</td></tr>";
 	document.getElementById("guesses").innerHTML+=toDoc;
 	emoji+= "🟩🟩🟩🟩🟩🟩";
 	finalRes(true);
