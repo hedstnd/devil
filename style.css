@@ -3,6 +3,22 @@ body {
 	background-color: #012169;
 	color: #fff;
 }
+.autocomplete-items {
+	background-color: #2c2c2c;
+	width: 15rem;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+	overflow-y: scroll;
+	max-height: 10rem;
+	font-size: 18px;
+}
+#guess {
+	width: 15rem;
+	height: 2rem;
+	font-size: 20px;
+	border-radius: 15px;
+}
 html, body{
     height:100%;
     width:100%;
@@ -12,7 +28,15 @@ html, body{
 table {
 	margin: auto;
 	table-layout: fixed;
-}		
+}
+td {
+	border-radius: 15px;
+}
+#stats {
+	float: right;
+	margin-top: -1%;
+	font-size: 20px;
+}
 .grn {
 background-color: green !important;
 }
@@ -49,6 +73,7 @@ td {
 	height: 50%;
 	padding: 20px;
 	text-align: center;
+	border-radius: 40px;
 }
 .modal {
   display: none; /* Hidden by default */
@@ -75,6 +100,10 @@ td {
 		text-align: center;
 		background-color: #fff;
 		color: #012169;
+	}
+	.autocomplete-items {
+		background-color: #d3d3d3;
+		box-shadow: 0em 0em .5em gray;
 	}
 	td {
 		background-color: rgba(1,33,105,0.3);

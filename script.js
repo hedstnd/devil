@@ -3,6 +3,8 @@ var names = [   "Jim Bowman",   "Lou Dubois",   "Bill Flentye",   "John Heath", 
 var h = new XMLHttpRequest();
 var plyrs;
 var plyrMap = new Map();
+var exp;
+var guessList = [];
 window.onload = function() {
 	h.open("GET","./db.json");
 	h.responseType = 'json';
@@ -19,6 +21,18 @@ h.onload = function() {
 	player = plyrs.filter(e => e.playerid == ids[dayNum - 420])[0];
 	autocomplete(document.getElementById("guess"), names);
 	plyrs.forEach(e => plyrMap.set(e.name,e));
+	day.setDate(day.getDate() + 1);
+	day.setHours(0);
+	day.setMinutes(0);
+	day.setSeconds(0);
+	day.setMilliseconds(0);
+	exp = day.toUTCString();
+	if (document.cookie.length > 0) {
+		c = document.cookie.split(";")[0].substring(2).split(",");
+		for (var i = 0; i < c.length; i++) {
+			guessPlay(c[i]);
+		}
+	}
 }
 let numGuess = 0;
 let emoji = "";
@@ -26,19 +40,22 @@ day = new Date();
 dayNum = getNumberOfDays("5/4/2022",day.toLocaleDateString());
 //player = plyrs.filter(e => e.playerid == ids[dayNum])[0];
 
-function guessPlay() {
-	document.getElementById("guess").value = document.getElementById("guess").value.replaceAll(",","'");
+function guessPlay(name) {
+	// document.getElementById("guess").value = document.getElementById("guess").value.replaceAll(",","'");
+	name = name.replaceAll(",","'");
 	numGuess++;
-	if (document.getElementById("guess").value.replaceAll(",","'") ==  player.name) {
+	if (/*document.getElementById("guess").value.replaceAll(",","'")*/name ==  player.name) {
 		correct();
 	} else {
-		pGuess = plyrMap.get(document.getElementById("guess").value); //plyrs.filter(e => e.name == document.getElementById("guess").value)[0];
+		pGuess = plyrMap.get(name/*document.getElementById("guess").value*/); //plyrs.filter(e => e.name == document.getElementById("guess").value)[0];
 		incorrect(pGuess);
 		if (numGuess == 8) {
 			finalRes(false);
 		}
 	}
 	document.getElementById("guess").value = "";
+	guessList.push(name);
+	document.cookie = "z="+guessList+";expires="+exp;
 }
 
 function incorrect(pG) {
@@ -126,7 +143,7 @@ function incorrect(pG) {
 
 function correct() {
 	toDoc = "";
-	toDoc+= "<tr class='grn'><td>"+player.name+"</td><td>"+player.pos+"</td><td>"+player.season4+"</td><td>"+player.class+"</td><td>"+player.htft+"'"+player.htin+"</td><td>"+player.num+"</td></tr>";
+	toDoc+= "<tr><td class='grn'>"+player.name+"</td><td class='grn'>"+player.pos+"</td><td class='grn'>"+player.season4+"</td><td class='grn'>"+player.class+"</td><td> class='grn'"+player.htft+"'"+player.htin+"</td><td class='grn'>"+player.num+"</td></tr>";
 	document.getElementById("guesses").innerHTML+=toDoc;
 	emoji+= "🟩🟩🟩🟩🟩🟩";
 	finalRes(true);
@@ -134,6 +151,7 @@ function correct() {
 
 function finalRes(gotIt) {
 	document.getElementById("guess").setAttribute("disabled",true);
+	document.getElementById("stats").removeAttribute("hidden");
 	document.getElementById("res").removeAttribute("hidden");
 	document.getElementById("pop").style.display = "block";
 	if (gotIt) {
@@ -141,6 +159,10 @@ function finalRes(gotIt) {
 	} else {
 				document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>Better luck tomorrow!</h1><br/><button onclick='share()'>Copy results</button>";
 	}
+}
+function showStats() {
+	document.getElementById("res").removeAttribute("hidden");
+	document.getElementById("pop").style.display = "block";
 }
 
 function share() {
@@ -232,7 +254,8 @@ function autocomplete(inp, arr) {
               b.addEventListener("click", function(e) {
               /*insert the value for the autocomplete text field:*/
               inp.value = this.getElementsByTagName("input")[0].value;
-			  guessPlay();
+			  // console.log(inp.value);
+			  guessPlay(inp.value);
               /*close the list of autocompleted values,
               (or any other open lists of autocompleted values:*/
               closeAllLists();
