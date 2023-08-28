@@ -167,7 +167,7 @@ function showStats() {
 
 async function share() {
 	var txt = "Devil " + dayNum + ": " + numGuess + "/8\n\n" + emoji;
-	var toShare = {title: "Devil", text: txt, url: window.location.href,};
+	var toShare = {title: "Devil", text: "Devil " + dayNum + ": " + numGuess + "/8\n\n" + emoji, url: window.location.href,};
 	// txt.select();
 	// txt.setSelectionRange(0, 99999);
 	try {
