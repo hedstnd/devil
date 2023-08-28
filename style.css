@@ -78,6 +78,8 @@ td {
 	border-radius: 40px;
 	backdrop-filter: blur(45px);
 	-webkit-backdrop-filter: blur(45px);
+	opacity: 1;
+	transition: 0.5s;
 }
 .modal {
   display: none; /* Hidden by default */
@@ -90,6 +92,8 @@ td {
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  transition: .5s;
+  opacity: 0;
 }
 .close {
   color: #aaa;

@@ -12,7 +12,11 @@ window.onload = function() {
 	// h.onload();
 }
 function byebye() {
-  document.getElementById("pop").style.display = "none";
+  document.getElementById("res").style.opacity = 0.0;
+  document.getElementById("pop").style.opacity = 0.0;
+  setTimeout(() => {
+	  document.getElementById("pop").style.display = "none";
+  },500);
 }
 
 h.onload = function() {
@@ -153,16 +157,22 @@ function finalRes(gotIt) {
 	document.getElementById("guess").setAttribute("disabled",true);
 	document.getElementById("stats").removeAttribute("hidden");
 	document.getElementById("res").removeAttribute("hidden");
+	document.getElementById("res").className="";
 	document.getElementById("pop").style.display = "block";
 	if (gotIt) {
 		document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>YOU GOT IT!</h1><br/><button id='shareBtn' onclick='share()'>Share results</button>";
 	} else {
 				document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>Better luck tomorrow!</h1><br/><button id='shareBtn' onclick='share()'>Share results</button>";
 	}
+	setTimeout(() => {document.getElementById("res").style.opacity = 1.0;
+	document.getElementById("pop").style.opacity = 1.0;
+	},5);
 }
 function showStats() {
-	document.getElementById("res").removeAttribute("hidden");
 	document.getElementById("pop").style.display = "block";
+	setTimeout(() => {document.getElementById("res").style.opacity = 1.0;
+	document.getElementById("pop").style.opacity = 1.0;
+	},5);
 }
 
 async function share() {
