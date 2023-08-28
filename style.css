@@ -3,6 +3,7 @@ body {
 	background-color: #012169;
 	color: #fff;
 }
+
 .autocomplete-items {
 	background-color: #2c2c2c;
 	width: 15rem;
@@ -36,6 +37,7 @@ td {
 	float: right;
 	margin-top: -1%;
 	font-size: 20px;
+	margin-right: .75rem;
 }
 .grn {
 background-color: green !important;
@@ -56,7 +58,7 @@ content: "↓";
 content: "↑";
 }
 th, td {
-  padding: 15px;
+  padding: 15px 15px 15px 15px;
 }
 tr {
 	width: 100%;
@@ -65,7 +67,7 @@ td {
 	background-color: rgba(255,255,255,0.3);
 }
 #res {
-	background-color: #000;
+	background-color: rgba(0,0,0,0.4);
 	/*margin: 15% auto;*/
 	margin: 12.5% auto;
 	color: #fff;
@@ -74,6 +76,7 @@ td {
 	padding: 20px;
 	text-align: center;
 	border-radius: 40px;
+	backdrop-filter: blur(60px);
 }
 .modal {
   display: none; /* Hidden by default */
@@ -113,6 +116,22 @@ td {
 		background-color: rgba(255,255,255,0.4); /* Black w/ opacity */
 	}
 	#res {
-		background-color: #012169;
+		background-color: rgba(1,33,105,0.4);
+	}
+}
+#stats::before {
+	content: "\f681";
+	font-family: 'Material Symbols Outlined';
+}
+
+@media only screen and (max-width: 768px) {
+	td:first-child {
+		font-size: 3.5vw;
+	}
+	table {
+		width: 100%;
+	}
+	th, td {
+		padding: 15px 0px 15px 0px !important;
 	}
 }

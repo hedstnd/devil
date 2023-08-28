@@ -155,9 +155,9 @@ function finalRes(gotIt) {
 	document.getElementById("res").removeAttribute("hidden");
 	document.getElementById("pop").style.display = "block";
 	if (gotIt) {
-		document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>YOU GOT IT!</h1><br/><button onclick='share()'>Copy results</button>";
+		document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>YOU GOT IT!</h1><br/><button id='shareBtn' onclick='share()'>Share results</button>";
 	} else {
-				document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>Better luck tomorrow!</h1><br/><button onclick='share()'>Copy results</button>";
+				document.getElementById("res").innerHTML += "<h2>"+player.name+"</h2><br/><h1>Better luck tomorrow!</h1><br/><button id='shareBtn' onclick='share()'>Share results</button>";
 	}
 }
 function showStats() {
@@ -165,11 +165,19 @@ function showStats() {
 	document.getElementById("pop").style.display = "block";
 }
 
-function share() {
+async function share() {
 	var txt = "Devil " + dayNum + ": " + numGuess + "/8\n\n" + emoji;
+	var toShare = {title: "Devil", text: txt, url: window.location.href,};
 	// txt.select();
 	// txt.setSelectionRange(0, 99999);
-	navigator.clipboard.writeText(txt);
+	try {
+		await navigator.share(toShare);
+	} catch (err) {
+		navigator.clipboard.writeText(txt);
+		p = document.createElement("p");
+		p.innerText = "Results copied to clipboard!";
+		document.getElementById("shareBtn").after(p);
+	}
 }
 
 function yellowClass(cl) {
