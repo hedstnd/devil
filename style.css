@@ -76,7 +76,8 @@ td {
 	padding: 20px;
 	text-align: center;
 	border-radius: 40px;
-	backdrop-filter: blur(60px);
+	backdrop-filter: blur(45px);
+	-webkit-backdrop-filter: blur(45px);
 }
 .modal {
   display: none; /* Hidden by default */
